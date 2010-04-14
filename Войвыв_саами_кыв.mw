@@ -3,7 +3,7 @@
 == Саами анбур ==
 {| cellpadding="4" cellspacing="0"  class="wikitable"
 |- align="center"
-! A a || [[Á|Á á]] || B b || C c || [[Č|Č č]] || D d || [[D with stroke|Đ ]] &#0273; || E e || F f || G g
+! A a || [[Á|Á á]] || B b || C c || [[Č|Č č]] || D d || [[D with stroke|Đ]]  đ || E e || F f || G g
 |- align="center"
 ! a || á || be || ce || če || de || đe || e || eff || ge
 |- align="center"
@@ -40,6 +40,7 @@
 [[es:Sami septentrional]]
 [[et:Põhjasaami keel]]
 [[fi:Pohjoissaame]]
+[[fiu-vro:Põh'asaami kiil]]
 [[fr:Same du Nord]]
 [[gv:Saamish Hwoaie]]
 [[hu:Északi számi nyelv]]
