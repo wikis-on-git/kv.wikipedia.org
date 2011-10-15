@@ -1,4 +1,3 @@
-
 '''Иврит''' (עִבְרִית [ive̞'ʁit]) — тайӧ семит кыв, еврей войтырлӧн чужан кывъясысь ӧти, важӧн бырӧм, но XX нэмын ловзьӧдӧм,  [[Израиль|Израильын]] официал кыв.
 
 == Иврит анбур ==
@@ -6,7 +5,7 @@
 {|class="wikitable" style="text-align: center"
 |-
 ! colspan="2" | шыпас
-! rowspan="3" style="font-size: 80%" | Чис­ло-<br />­вое<br />зна­че­-<br />ние<br />([[Гематрия|гемат-<br />рия]])
+! rowspan="3" style="font-size: 80%" | Чис­ло-<br />­вое<br />зна­че­-<br />ние<br />(гематрия)
 ! colspan="3" | ним
 ! colspan="3" | транслитерация
 ! colspan="5" | шуанног 
@@ -109,11 +108,11 @@
 | style="font-size:240%; font-family:serif" height=28|‭פ||style="font-size:240%; font-family:serif" height=28|ף
 | 80|| Пе (фе) || Пей (фей) || פֵּא
 || п, ф || p, ph || p, ph
-|| [ p, f ] || [ p, f ] || [ p, f ] || {{IPA|[ p, ɸ ]}} || [ p ]
+|| [ p, f ] || [ p, f ] || [ p, f ] || [ p, ɸ ] || [ p ]
 |-
 | style="font-size:240%; font-family:serif" height=28|‭צ||style="font-size:240%; font-family:serif" height=28|ץ
 | 90|| Ца́ди || Цо́ди, цо́дик || צָדִי
-|| ц || {{unicode|ṣ}} || s`
+|| ц || ṣ || s`
 || [ ʦ ] || [ ʦ ] || [ ʦ ] || [ sˁ ] || [ʦʼ, ʧʼ, t͡ɬʼ]
 |-
 | style="font-size:240%; font-family:serif" height=28|ק||
@@ -133,7 +132,7 @@
 |-
 | style="font-size:240%; font-family:serif" height=28|ת||
 | 400|| Тав || Тов (сов) || תָו
-|| т || {{unicode|t, ṯ}} || t, th
+|| т || t, ṯ || t, th
 ||[ t ] || [ t ] || [ t̪, θ ] || [ t̪, θ ] || [ t̪ ]
 |-
 |}
@@ -189,6 +188,7 @@
 |style="font-size:4em;line-height:1.2;text-align:center;"|וּ
 |Шурук
 |''у''
+|-----
 |style="font-size:4em;line-height:1.2;text-align:center;"|ֳ
 |''хатаф-камац''
 |безударный звук ''о''
@@ -202,7 +202,6 @@
 |безударный звук ''э''
 |+
 |}
-
 
 == Ыстӧдъяс ==
 
