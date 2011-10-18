@@ -3,59 +3,59 @@
 
 == Копт анбур ==
 
-[[Файл:CopticLetters.svg|thumb|left|Копт анбур]]
+[[Файл:CopticLetters.svg|thumb|Копт анбур]]
 {| style="text-align: center; margin: 10pt" class="wikitable"
 |- style="font-size: 80%"
-!width="12.5%"| Заглавная буква (изобра&shy;жение)
-!width="12.5%"| Строчная (изобра&shy;жение)
-!width="12.5%"| Заглавная буква
-!width="12.5%"| Строчная буква
-!width="12.5%"| Числовое значение
-!width="12.5%"| Название
-!width="12.5%"| Греческий эквивалент
-!width="12.5%"| Транс&shy;лите&shy;рация (IPA)
+!width="12.5%"| ыджыд шыпас (серпас)
+!width="12.5%"| ичӧт шыпас (серпас)
+!width="12.5%"| ыджыд шыпас
+!width="12.5%"| ичӧт шыпас
+!width="12.5%"| лыд
+!width="12.5%"| ним
+!width="12.5%"| эллин эквивалент
+!width="12.5%"| шуанног
 |-
 ! [[Файл:Coptic_Alpha-maj.svg|25px]]
 ! [[Файл:Coptic_Alpha-min.svg|25px]]
-! {{coptic|1=<font size="5">Ⲁ</font>}}
-! {{coptic|1=<font size="5">ⲁ</font>}}
+! Ⲁ
+! ⲁ
 | 1
-| альфа || Α, α || {{IPA|a}}
+| альфа || Α, α || a
 |-
 ! [[Файл:Coptic_Beta-maj.svg|25px]]
 ! [[Файл:Coptic_Beta-min.svg|25px]]
-! {{coptic|1=<font size="5">Ⲃ</font>}}
-! {{coptic|1=<font size="5">ⲃ</font>}}
+! Ⲃ
+! ⲃ
 | 2
-| бета || Β, β || {{IPA|w}}
+| бета || Β, β || w
 |-
 ! [[Файл:Coptic_Gamma-maj.svg|25px]]
 ! [[Файл:Coptic_Gamma-min.svg|25px]]
-! {{coptic|1=<font size="5">Ⲅ</font>}}
-! {{coptic|1=<font size="5">ⲅ</font>}}
+! Ⲅ
+! ⲅ
 | 3
-| гамма || Γ, γ || {{IPA|k}}
+| гамма || Γ, γ || k
 |-
 ! [[Файл:Coptic_Dalda-maj.svg|25px]]
 ! [[Файл:Coptic_Dalda-min.svg|25px]]
-! {{coptic|1=<font size="5">Ⲇ</font>}}
-! {{coptic|1=<font size="5">ⲇ</font>}}
+! Ⲇ
+! ⲇ
 | 4
-| дальда || Δ, δ || {{IPA|t}}
+| дальда || Δ, δ || t
 |-
 ! [[Файл:Coptic_Ei-maj.svg|25px]]
 ! [[Файл:Coptic_Ei-min.svg|25px]]
-! {{coptic|1=<font size="5">Ⲉ</font>}}
-! {{coptic|1=<font size="5">ⲉ</font>}}
+! Ⲉ
+! ⲉ
 | 5
-| ей || Ε, ε || {{IPA|i}}
+| ей || Ε, ε || i
 |-
 ! [[Файл:Coptic_Zeta-maj.svg|25px]]
 ! [[Файл:Coptic_Zeta-min.svg|25px]]
-! {{coptic|1=<font size="5">Ⲍ</font>}}
-! {{coptic|1=<font size="5">ⲍ</font>}}
+! Ⲍ
+! ⲍ
 | 7
-| зета || Ζ, ζ || {{IPA|z}}
+| зета || Ζ, ζ || z
 |-
 ! [[Файл:Coptic_Eta-maj.svg|25px]]
 ! [[Файл:Coptic_Eta-min.svg|25px]]
