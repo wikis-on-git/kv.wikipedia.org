@@ -1,0 +1,507 @@
+'''Важ славян кыв''' ({{KurKlim|Словѣ́ньскъ ѩꙁꙑ́къ}}) — тайӧ бырӧм (IX—XI нэмӧдз) славян кыв лунвыв да асыввыв [[Европа|Европаын]]. 
+
+== Важ славян анбур ==
+
+{| border=1 cellspacing=0 cellpadding=2 style="border: 1px solid #999; border-collapse: collapse;" class="Unicode"
+|- valign=bottom style="background: #f0f0f0;"
+! align=left | шыпас
+! align=left | Юникод
+! align=left | ним
+(кирилл)
+! align=left | ним
+! align=left | транслитерация
+! align=left | шуанног
+! align=left | лоӧм
+! align=left | лыд
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Azu.png]]
+| А а
+| азъ
+| [azʊ]
+| a
+| [a]
+| Α, α
+| 1
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Buky.png]]
+| |Б б
+| бѹкы
+| [bukɨ]
+| b
+| [b]
+| глагол [[Файл:GlagolitsaBuki.gif|10px]]
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Viedi.png]]
+| [[В (кириллица)|В в]]
+| {{Script|Cyrs|вѣдѣ}}
+| {{IPA|[vædæ]}}
+| v
+| {{IPA|[v]}}
+| [[Греческий алфавит|Греческая]] ([[Β|Β, β]])
+| 2
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Glagoli.png]]
+| [[Г (кириллица)|Г г]]
+| {{Script|Cyrs|глаголи}}
+| {{IPA|[glagoli]}}
+| g
+| {{IPA|[g]}}
+| [[Греческий алфавит|Греческая]] ([[Γ|Γ, γ]])
+| 3
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Dobro.png]]
+| [[Д (кириллица)|Д д]]
+| {{Script|Cyrs|добро}}
+| {{IPA|[dobro]}}
+| d
+| {{IPA|[d]}}
+| [[Греческий алфавит|Греческая]] ([[Δ|Δ, δ]])
+| 4
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Yesti.png]]
+| [[Є (кириллица)|Є є]]
+| {{Script|Cyrs|ѥсть}}
+| {{IPA|[jɛstɪ]}}
+| (j)e
+| {{IPA|[(j)ɛ]}}
+| [[Греческий алфавит|Греческая]] ([[Ε|Ε, ε]])
+| 5
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Zhiviete.png]]
+| [[Ж (кириллица)|Ж ж]]
+| {{Script|Cyrs|живѣте}}
+| {{IPA|[ʓivætɛ]}}
+| ž, zh
+| {{IPA|[ʓ]}}
+| [[Глаголица|Глаголическая]] [[Файл:GlagolitsaZhivete.gif|14px]], [[Живете]]
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Dzelo.png]]
+| [[Ѕ (кириллица)|Ѕ ѕ / Ꙃ ꙃ]]
+| {{Script|Cyrs|ѕѣло}}
+| {{IPA|[d͡ʑælo]}}
+| dz
+| {{IPA|[d͡ʑ]}}
+|
+| 6
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Zemlia.png]]
+| [[З (кириллица)|З з / Ꙁ ꙁ]]
+| {{Script|Cyrs|землꙗ}}
+| {{IPA|[ʑemʎa]}}
+| z
+| {{IPA|[z]}}, {{IPA|[ʑ]}}
+| [[Греческий алфавит|Греческая]] ([[Ζ|Ζ, ζ]])
+| 7
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Izhe.png]]
+| [[И (кириллица)|И и]]
+| {{Script|Cyrs|иже}}
+| {{IPA|[iʓɛ]}}
+| i
+| {{IPA|[i]}}
+| [[Греческий алфавит|Греческая]] ([[Η|Η, η]])
+| 8
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter I.png]]
+| [[І (кириллица)|І і]] / [[Ї|Ї ї]]
+| {{Script|Cyrs|и/ижеи}}
+| {{IPA|[i, iʓɛjі]}}
+| i, I
+| {{IPA|[i]}}
+| [[Греческий алфавит|Греческая]] ([[Ι|Ι, ι]])
+| 10
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Kako.png]]
+| [[К (кириллица)|К к]]
+| {{Script|Cyrs|како}}
+| {{IPA|[kako]}}
+| k
+| {{IPA|[k]}}
+| [[Греческий алфавит|Греческая]] ([[Κ|Κ, κ]])
+| 20
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Liudiye.png]]
+| [[Л (кириллица)|Л л]]
+| {{Script|Cyrs|людиѥ}}
+| {{IPA|[ʎudijɛ]}}
+| l
+| {{IPA|[l]}}, {{IPA|[ʎ]}}
+| [[Греческий алфавит|Греческая]] ([[Λ|Λ, λ]])
+| 30
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Myslite.png]]
+| [[М (кириллица)|М м]]
+| {{Script|Cyrs|мыслете}}
+| {{IPA|[mɨslɛtɛ]}}
+| m
+| {{IPA|[m]}}
+| [[Греческий алфавит|Греческая]] ([[Μ|Μ, μ]])
+| 40
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Nashi.png]]
+| [[Н (кириллица)|Н н]]
+| {{Script|Cyrs|нашь}}
+| {{IPA|[naʆɪ]}}
+| n
+| {{IPA|[n]}}, {{IPA|[ɲ]}}
+| [[Греческий алфавит|Греческая]] ([[Ν|Ν, ν]])
+| 50
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Onu.png]]
+| [[О (кириллица)|О о]]
+| {{Script|Cyrs|онъ}}
+| {{IPA|[onʊ]}}
+| o
+| {{IPA|[o]}}
+| [[Греческий алфавит|Греческая]] ([[Ο|Ο, ο]])
+| 70
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Pokoi.png]]
+| [[П (кириллица)|П п]]
+| {{Script|Cyrs|покои}}
+| {{IPA|[pokojɪ]}}
+| p
+| {{IPA|[p]}}
+| [[Греческий алфавит|Греческая]] ([[Π|Π, π]])
+| 80
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Ritsi.png]]
+| [[Р (кириллица)|Р р]]
+| {{Script|Cyrs|рьци}}
+| {{IPA|[rɪt͡ɕi]}}
+| r
+| {{IPA|[r]}}, {{IPA|[rʲ]}}
+| [[Греческий алфавит|Греческая]] ([[Ρ|Ρ, ρ]])
+| 100
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Slovo.png]]
+| [[С (кириллица)|С с]]
+| {{Script|Cyrs|слово}}
+| {{IPA|[slovo]}}
+| s
+| {{IPA|[s]}}, {{IPA|[ɕ]}}
+| [[Греческий алфавит|Греческая]] ([[ϲ|Ϲ, ϲ]])
+| 200
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Tvrido.png]]
+| [[Т (кириллица)|Т т]]
+| {{Script|Cyrs|тврьдо}}
+| {{IPA|[tvr̥do]}}
+| t
+| {{IPA|[t]}}
+| [[Греческий алфавит|Греческая]] ([[Τ|Τ, τ]])
+| 300
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Uku.png]]
+| [[Ѹ (кириллица)|Ѹ оу / Ꙋ ꙋ]]
+| {{Script|Cyrs|ѹкъ}}
+| {{IPA|[ukʊ]}}
+| u
+| {{IPA|[u]}}
+| [[Греческий алфавит|Греческие]] ([[Ο|Ο, ο]] и [[Υ|Υ, υ]])
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Fritu.png]]
+| [[Ф (кириллица)|Ф ф]]
+| {{Script|Cyrs|фрьтъ}}
+| {{IPA|[fr̥tʊ]}}
+| f
+| {{IPA|[f]}}
+| [[Греческий алфавит|Греческая]] ([[Φ|Φ, φ]])
+| 500
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Khieru.png]]
+| [[Х (кириллица)|Х х]]
+| {{Script|Cyrs|хѣръ}}
+| {{IPA|[xærʊ]}}
+| x
+| {{IPA|[x]}}
+| [[Греческий алфавит|Греческая]] ([[Χ|Χ, χ]])
+| 600
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Otu.png]]
+| [[Ѡ (кириллица)|Ѡ ѡ]]
+| {{Script|Cyrs|отъ}}
+| {{IPA |[otʊ]}}
+| ō, w
+| {{IPA |[oː]}}
+| [[Греческий алфавит|Греческая]] ([[Ω|Ω, ω]])
+| 800
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Tsi.png]]
+| [[Ц (кириллица)|Ц ц]]
+| {{Script|Cyrs|ци}}
+| {{IPA |[t͡ɕi]}}
+| c
+| {{IPA |[t͡ɕ]}}
+| [[Эфиопское письмо|Эфиопская]] [[ሃ]] (?), [[Еврейский алфавит|еврейская]] [[צ]](?), [[Коптское письмо|коптская]] [[ϥ]] (?)‎
+| 900
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Chrivi.png]]
+| [[Ч (кириллица)|Ч ч]]
+| {{Script|Cyrs|чрьвь}}
+| {{IPA |[ʧr̥vɪ]}}
+| č, ch
+| {{IPA |[ʧ]}}
+| [[Глаголица|Глаголическая]] [[Файл:GlagolitsaCherv.gif|16px]], [[Еврейский алфавит|еврейская]] [[צ]](?)  
+| 90
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Sha.png]]
+| [[Ш (кириллица)|Ш ш]]
+| {{Script|Cyrs|ша}}
+| {{IPA |[ʆa]}}
+| š, sh
+| {{IPA|[ʆ]}}
+| [[Эфиопское письмо|Эфиопская]] [[ሠ]] (?), [[Еврейский алфавит|еврейская]] [[ש]] (?), [[Коптское письмо|коптская]] [[ϣ]] (?)
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Shta.png]]
+| [[Щ (кириллица)|Щ щ]]
+| {{Script|Cyrs|шта}}
+| {{IPA |[ʆtʲa]}}
+| št, sht
+| {{IPA |[ʆtʲ]}}
+| [[Лигатура]] Ш-Т, [[Глаголица|Глаголическая]] лигатура Ш-Ч [[Файл:GlagolitsaShta.gif|17px]]
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Yeru.png]]
+| [[Ъ (кириллица)|Ъ ъ]]
+| {{Script|Cyrs|ѥръ}}
+| [{{IPA|jɛrʊ}}]
+| ŭ, u:
+| [{{IPA|ʊ}}]
+| [[Глаголица|Глаголическая]] [[Файл:GlagolitsaJer.gif|14px]]
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Yery.png]]
+| [[Ы (кириллица)|Ꙑ ꙑ/Ы ы]]
+| {{Script|Cyrs|ѥры}}
+| [{{IPA|jɛrɨ}}]
+| y
+| [{{IPA|ɨ}}]
+| [[Лигатура]] Ъ-І
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Yeri.png]]
+| [[Ь (кириллица)|Ь ь]]
+| {{Script|Cyrs|ѥрь}}
+| [{{IPA|jɛrɪ}}]
+| ĭ, i:
+| [{{IPA|ɪ}}]
+|
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Yati.png]]
+| [[Ѣ (кириллица)|Ѣ ѣ]]
+| {{Script|Cyrs|ꙗть}}
+| [{{IPA|jatɪ}}]
+| ě
+| [{{IPA|æ}}]
+|
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Yu.png]]
+| [[Ю (кириллица)|Ю ю]]
+| ц.-сл. — {{Script|Cyrs|ю}}, ст.-сл. условн. — йотированный {{Script|Cyrs|ѹкъ}}
+| {{IPA|[ju]}}
+| ju
+| {{IPA|ju}}
+| [[Лигатура]] I-ОУ
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Ya.png]]
+| [[Ꙗ (кириллица)|Ꙗ ꙗ]]/[[Я (кириллица)|ıa]]
+| {{Script|Cyrs|ꙗ}}
+| {{IPA|[ja]}}
+| ja
+| {{IPA|ja}}
+| [[Лигатура]] I-А
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Ye.png]]
+| [[Ѥ (кириллица)|Ѥ ѥ]]
+| ц.-сл. — {{Script|Cyrs|ѥ}}, ст.-сл. условн. — йотированный есть
+| {{IPA|[jɛ]}}
+| je
+| {{IPA|[jɛ]}}
+| [[Лигатура]] І-Є
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Yusu Maliy.png]]
+| [[Ѧ (кириллица)|Ѧ ѧ]]
+| ц.-сл. — {{Script|Cyrs|ѧсъ}}, ст.-сл. условн. — юсъ малый
+| {{IPA |[ɛ̃sʊ]}}
+| ę, ẽ
+| {{IPA |[ɛ̃]}}
+| [[Глаголица|Глаголическая]] [[Файл:GlagolitsaJusE.gif|14px]]
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Yusu Maliy Yotirovaniy.png]]
+| [[Юсы|Ѩ ѩ]]
+| ц.-сл. — {{Script|Cyrs|ѩсъ}}, ст.-сл. условн. — йотированный юсъ малый
+| {{IPA|[jɛ̃sʊ]}}
+| ję, jẽ
+| {{IPA|[jɛ̃]}}
+| [[Лигатура]] I-Ѧ
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Yusu Bolshiy.png]]
+| [[Ѫ (кириллица)|Ѫ ѫ]]
+| ц.-сл. — ѫсъ, ст.-сл. — юсъ большой
+| {{IPA|[ɔ̃sʊ]}}
+| ǫ, õ
+| {{IPA |[ɔ̃]}}
+| [[Глаголица|Глаголическая]] [[Файл:GlagolitsaJusO.gif|20px]]
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Yusu Bolshiy Yotirovaniy.png]]
+| [[Юсы|Ѭ ѭ]]
+| ц.-сл. — {{Script|Cyrs|ѭсъ}}, ст.-сл. условн. — йотированный юсъ большой
+| {{IPA |[jɔ̃sʊ]}}
+| jǫ, jõ
+| {{IPA |[jɔ̃]}}
+| [[Лигатура]] I-Ѫ
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Ksi.png]]
+| [[Ѯ (кириллица)|Ѯ ѯ]]
+| {{Script|Cyrs|кси}}
+| {{IPA |[ksi]}}
+| ks
+| {{IPA |[ks]}}
+| [[Греческий алфавит|Греческая]] ([[Ξ|Ξ, ξ]])
+| 60
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Psi.png]]
+| [[Ѱ (кириллица)|Ѱ ѱ]]
+| {{Script|Cyrs|пси}}
+| {{IPA |[psi]}}
+| ps
+| {{IPA |[ps]}}
+| [[Греческий алфавит|Греческая]] ([[Ψ|Ψ, ψ]])
+| 700
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Fita.png]]
+| [[Ѳ (кириллица)|Ѳ ѳ]]
+| {{Script|Cyrs|фита}}
+| {{IPA |[fita]}}
+| θ, th, T, F
+| {{IPA |[t]}}/{{IPA |[θ]}}/{{IPA |[f]}}
+| [[Греческий алфавит|Греческая]] ([[Θ|Θ, θ]])
+| 9
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Izhitsa.png]]
+| [[Ѵ (кириллица)|Ѵ ѵ]]
+| {{Script|Cyrs|ижица}}
+| {{IPA|[iʓit͡ɕa]}}
+| ü
+| {{IPA |[ɪ]}}, {{IPA |[y]}}
+| [[Греческий алфавит|Греческая]] ([[Υ|Υ, υ]])
+| 400
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Dierv.png]]
+| [[Ћ (кириллица)|Ћ ћ]]<sup>1</sup>
+| {{Script|Cyrs|ћрьвь}}, {{Script|Cyrs|дервь}}, {{Script|Cyrs|ћѣрвь}}
+| {{IPA |[ʤr̥vɪ]}}, {{IPA |[ʤɛrvɪ]}}, {{IPA |[djɛrvɪ]}}
+| đ, dj
+| {{IPA |[ʤ]}}, {{IPA |[dj]}}
+| Перевёрнутая [[Файл:Early Cyrillic letter Chrivi.png]] ({{Script|Cyrs|чрьвь}})(?)
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Tvrido Otu.png]]
+| [[Омега (кириллица)|Ѿ ѿ]]
+| {{Script|Cyrs|отъ}}
+| {{IPA |[otʊ]}}
+| ot
+| {{IPA |[ot]}}
+| [[Лигатура]] Ѡ-Т
+|
+|-
+| style="background: white;" | [[Файл:Early Cyrillic letter Koppa.png]]
+| [[Ҁ (кириллица)|Ҁ ҁ]]²
+| {{Script|Cyrs|ко́ппа}}
+|
+|
+|
+| [[Греческий алфавит|Греческая]] ([[Ϙ|Ϙ, ϙ]])
+| 90
+|}
+
+'''диакритик пасъяс:'''
+
+: <big>а́</big>&nbsp; ''Оксия'' (''Акут'')
+: <big>а̀</big>&nbsp; ''Вария'' (''Гравис'')
+: <big>л҄</big>&nbsp; ''Камора''
+: <big>а҅</big>&nbsp; ''Дасия''
+: <big>а҆</big>&nbsp; ''Звательцо'' (''Псили'')
+: <big>а҃</big>&nbsp; ''Титло''
+: <big>ї</big>&nbsp; ''Трема''
+: <big>а҆́</big>&nbsp; ''Звательцо'' да ''Оксия'' (''Исо'')
+: <big>а҆̀</big>&nbsp; ''Звательцо'' да ''Вария'' (''Апостроф'')
+
+== Ыстӧдъяс ==
+
+* [http://ksana-k.narod.ru/djvu/kulbakin2/index.htm Древнецерковнославянский язык. I. Введение. Фонетика. — Харьков, 1911]
+* [http://www.anaslav.ru/Rodnoy/Staroslav_Seliscev_1951.pdf Селищев А. М. Старославянский язык. — М.: Государственное учебно-педагогическое издательство Министерства Просвещения РСФСР, 1951]
+* [http://ksana-k.narod.ru/b-small/elkina.djvu Ёлкина Н. М. Старославянский язык. — М.: Государственное учебно-педагогическое издательство Министерства Просвещения РСФСР, 1960]
+* [http://ksana-k.narod.ru/b-small/popov.djvu Попов М. Б. Введение в старославянский язык. Учебное пособие. — СПб.: Изд-во С.-Петерб. ун-та, 1997]
+* [http://ksana-k.narod.ru/djvu/ivanova/index.htm Иванова Т. А. Старославянский язык: Учебник. — СПб.: Изд-во С.-Петерб. ун-та, 1998]
+* [http://www.book-ua.org/click.php?id_link=18576 Камчатнов А. М. Старославянский язык. Курс лекций. 2-е изд. — М.: Флинта, Наука, 2000]
+* [http://www.biblio.nhat-nam.ru/Staroslav_slovar.djvu Старославянский словарь (по рукописям X—XI веков): Около 10 000 слов / Э. Благова, Р. М. Цейтлин, С. Геродес и др. Под. ред. Р. М. Цейтлин, Р. Вечерки и Э. Благовой. — М.: Рус. яз., 1994]
+* [[Дьяченко, Григорий Михайлович|Дьяченко Г. М.]], прот. [http://www.slavdict.narod.ru/ Полный церковнославянскій словарь]
+* [http://ksana-k.narod.ru/menu/slave/cejtlin1977.html Цейтлин Р. М. Лексика старославянского языка (Опыт анализа мотивированных слов по данным древнеболгарских рукописей X—XI вв.). — М.: Наука, 1977]
+
+{{Stub}}
+
+[[Категория:Кыв]]
+[[Категория:Славян кывъяс]]
+
+[[af:Ou Kerkslawies]]
+[[ba:Иҫке славян теле]]
+[[bg:Старобългарски език]]
+[[bs:Staroslavenski jezik]]
+[[ca:Antic eslau]]
+[[cs:Staroslověnština]]
+[[cu:Словѣньскъ ѩꙁꙑкъ]]
+[[cv:Ватă славян чĕлхи]]
+[[cy:Hen Slafoneg Eglwysig]]
+[[da:Oldkirkeslavisk]]
+[[de:Altkirchenslawische Sprache]]
+[[dsb:Staro-cerkwjejno-słowjańska rěc]]
+[[el:Αρχαία εκκλησιαστική σλαβονική γλώσσα]]
+[[en:Old Church Slavonic]]
+[[eo:Malnovslava lingvo]]
+[[es:Antiguo eslavo eclesiástico]]
+[[fi:Muinaiskirkkoslaavi]]
+[[fr:Vieux-slave]]
+[[he:סלאבית כנסייתית עתיקה]]
+[[hr:Staroslavenski jezik]]
+[[hu:Óegyházi szláv nyelv]]
+[[id:Bahasa Gereja Slavonia Lama]]
+[[it:Antico slavo ecclesiastico]]
+[[ja:古代教会スラヴ語]]
+[[ka:ძველი სლავური ენა]]
+[[kk:Шіркеу славян тілі]]
+[[la:Lingua Slavonica antiqua]]
+[[lb:Alslawesch Sprooch]]
+[[lt:Senoji bažnytinė slavų kalba]]
+[[lv:Baznīcslāvu valoda]]
+[[mk:Старословенски јазик]]
+[[nl:Oudkerkslavisch]]
+[[no:Gammelkirkeslavisk]]
+[[oc:Eslavon]]
+[[pl:Język staro-cerkiewno-słowiański]]
+[[pms:Lenga antich slav ëd Gesia]]
+[[pt:Antigo eslavo eclesiástico]]
+[[rue:Старославяньскый язык]]
+[[sh:Staroslavenski jezik]]
+[[sk:Staroslovienčina]]
+[[sl:Stara cerkvena slovanščina]]
+[[sr:Старословенски језик]]
+[[sv:Fornkyrkoslaviska]]
+[[ta:பண்டைய மசிதோனிய மொழி]]
+[[th:ภาษาโบสถ์สลาโวนิกโบราณ]]
+[[uk:Староцерковнослов'янська мова]]
+[[zh:古教會斯拉夫語]]
