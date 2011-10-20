@@ -1,7 +1,8 @@
-'''Армян кыв''' (Հայոց լեզու hɑjótsʰ lɛzú, Հայերեն, Հայերէն hɑjɛɾɛ́n) — тайӧ инд-европаса кыв, [[Армения]]ын да [[Керӧс Карабах Республика|Керӧс Карабах]]ын каналан кыв.
+'''Армен кыв''' (Հայոց լեզու hɑjótsʰ lɛzú, Հայերեն, Հայերէն hɑjɛɾɛ́n) — тайӧ инд-европаса кыв, [[Армения]]ын да [[Керӧс Карабах Республика|Керӧс Карабах]]ын каналан кыв.
 
 == Анбур ==
-Армян транслитерация стандарт ISO 9985:
+
+Армен транслитерациялӧн стандарт ISO 9985:
 {| class="wikitable"
 ! 
 |ա ||բ 	||գ ||դ ||ե ||զ ||է ||ը ||թ ||ժ ||ի ||լ ||խ ||ծ ||կ ||հ ||ձ ||ղ ||ճ ||մ ||յ ||ն ||շ ||ո ||չ ||պ ||ջ ||ռ ||ս ||վ ||տ ||ր ||ց ||ւ ||փ ||ք ||օ ||ֆ|| ու || և 
@@ -11,292 +12,308 @@
 |}
 
 {| border="1" cellpadding="3" cellspacing="0" style="border-collapse: collapse;text-align:center"
-! rowspan="3" style="background:#ccf;" | Буква
-! colspan="5" style="background:#ccf;" | Название буквы
-! colspan="3" style="background:#ccf;" | Произношение ([[Международный фонетический алфавит|МФА]])
-! colspan="2" style="background:#ccf;" | Транс-<br />лите-<br />рация
-! rowspan="3" style="background:#ccf;" | Число-<br />вое<br />значе-<br />ние
+! rowspan="3" style="background:#ccf;" | шыпас
+! colspan="5" style="background:#ccf;" | ним
+! colspan="3" style="background:#ccf;" | шуанног
+! colspan="2" style="background:#ccf;" | транслитерация
+! rowspan="3" style="background:#ccf;" | лыд
 |-
-! rowspan=2 style="background:#ccffff;" | Тра-<br />диц.<br />орфо-<br />гра-<br />фия
-! rowspan=2 style="background:#ccffff;" | Ре-<br />форм.<br />орфо-<br />гра-<br />фия
-! colspan=3 style="background:#ccffff;" | Произ-<br />ношение
-! rowspan=2 style="background:#ccffff;" | Класси-<br />ческое<br />арм.
-! rowspan=2 style="background:#ccffff;" | Вост.-<br />арм.
-! rowspan=2 style="background:#ccffff;" | Зап.-<br />арм.
-! rowspan=2 style="background:#ccffff;" | Класси-<br />ческая
-! rowspan=2 style="background:#ccffff;" | [[ISO 9985]]
+! rowspan=2 style="background:#ccffff;" | важ орфография
+! rowspan=2 style="background:#ccffff;" | выль орфография
+! colspan=3 style="background:#ccffff;" | шуанног
+! rowspan=2 style="background:#ccffff;" | важ армен
+! rowspan=2 style="background:#ccffff;" | асыввыв 
+! rowspan=2 style="background:#ccffff;" | рытыввыв
+! rowspan=2 style="background:#ccffff;" | классик
+! rowspan=2 style="background:#ccffff;" | ISO 9985
 |-
-! style="background:#f2f2f2;" | Класси-<br />ческое<br />арм.
-! style="background:#f2f2f2;" | Вост.-<br />арм.
-! style="background:#f2f2f2;" | Зап.-<br />арм.
+! style="background:#f2f2f2;" | важ армен
+! style="background:#f2f2f2;" | асыввыв
+! style="background:#f2f2f2;" | рытыввыв
 |----
-|style="font-size:150%;"|[[Ա]] [[ա]]
+|style="font-size:150%;"|Աա
 | colspan="2" | այբ
-| colspan="2" | {{IPA|[aɪb]}} || {{IPA|[aɪpʰ]}}
-| colspan="3" | {{IPA|[ɑ]}}
+| colspan="2" | [aɪb] || [aɪpʰ]
+| colspan="3" | [ɑ]
 | colspan="2" | a
 | 1
 |----
-|style="font-size:150%;"|[[Բ]][[բ]]
+|style="font-size:150%;"|Բբ
 | colspan="2" | բեն
-| colspan="2" | {{IPA|[bɛn]}} || {{IPA|[pʰɛn]}}
-| colspan="2" | {{IPA|[b]}} || {{IPA|[pʰ]}}
+| colspan="2" | [bɛn] || [pʰɛn]
+| colspan="2" | [b] || [pʰ]
 | colspan="2" | b
 | 2
 |----
-|style="font-size:150%;"|[[Գ]][[գ]]
+|style="font-size:150%;"|Գգ
 | colspan="2" | գիմ
-| colspan="2" | {{IPA|[gim]}} || {{IPA|[kʰim]}}
-| colspan="2" | {{IPA|[g]}} || {{IPA|[kʰ]}}
+| colspan="2" | [gim] || [kʰim]
+| colspan="2" | [g] || [kʰ]
 | colspan="2" | g
 | 3
 |----
-|style="font-size:150%;"|[[Դ]] [[դ]]
+|style="font-size:150%;"|Դդ
 | colspan="2" | դա
-| colspan="2" | {{IPA|[dɑ]}} || {{IPA|[tʰɑ]}}
-| colspan="2" | {{IPA|[d]}} || {{IPA|[tʰ]}}
+| colspan="2" | [dɑ] || [tʰɑ]
+| colspan="2" | [d] || [tʰ]
 | colspan="2" | d
 | 4
 |----
-|style="font-size:150%;"|[[Ե]][[ե]]
+|style="font-size:150%;"|Եե
 | colspan="2" | եչ
-| colspan="3" | {{IPA|[jɛtʃʰ]}}
-| colspan="3" | {{IPA|[ɛ]}}, в начале слова {{IPA|[jɛ]}}<sup>1</sup>
+| colspan="3" | [jɛtʃʰ]
+| colspan="3" | [ɛ], [jɛ]
 | colspan="2" | e
 | 5
 |----
-|style="font-size:150%;"|[[Զ]] [[զ]]
+|style="font-size:150%;"|Զզ
 | colspan="2" | զա
-| colspan="3" | {{IPA|[zɑ]}}
-| colspan="3" | {{IPA|[z]}}
+| colspan="3" | [zɑ]
+| colspan="3" | [z]
 | colspan="2" | z
 | 6
 |----
-|style="font-size:150%;"|[[Է]][[է]]
+|style="font-size:150%;"|Էէ
 | colspan="2" | է
-| {{IPA|[ɛː]}} || colspan="2" | {{IPA|[ɛ]}}
-| {{IPA|[ɛː]}} ||colspan="2" | {{IPA|[ɛ]}}
+| [ɛː] || colspan="2" | [ɛ]
+| [ɛː] ||colspan="2" | [ɛ]
 | ē||ê
 | 7
 |----
-|style="font-size:150%;"|[[Ը]][[ը]]
+|style="font-size:150%;"|Ըը
 | colspan="2" | ըթ
-| colspan="3" | {{IPA|[ətʰ]}}
-| colspan="3" | {{IPA|[ə]}}
+| colspan="3" | [ətʰ]
+| colspan="3" | [ə]
 | ə||ë
 | 8
 |----
-|style="font-size:150%;"|[[Թ]][[թ]]
+|style="font-size:150%;"|Թթ
 | թօ || թո
-| colspan="3" | {{IPA|[tʰo]}}
-| colspan="3" | {{IPA|[tʰ]}}
+| colspan="3" | [tʰo]
+| colspan="3" | [tʰ]
 | colspan="2" | t‘
 | 9
 |----
-|style="font-size:150%;"|[[Ժ]] [[ժ]]
+|style="font-size:150%;"|Ժժ
 | ժէ || ժե
-| {{IPA|[ʒɛː]}} || colspan="2" | {{IPA|[ʒɛ]}}
-| colspan="3" | {{IPA|[ʒ]}}
+| [ʒɛː] || colspan="2" | [ʒɛ]
+| colspan="3" | [ʒ]
 | colspan="2" |ž
 | 10
 |----
-|style="font-size:150%;"|[[Ի]][[ի]]
+|style="font-size:150%;"|Իի
 | colspan="2" | ինի
-| colspan="3" | {{IPA|[ini]}}
-| colspan="3" | {{IPA|[i]}}
+| colspan="3" | [ini]
+| colspan="3" | [i]
 | colspan="2" | i
 | 20
 |----
-|style="font-size:150%;"|[[Լ]][[լ]]
+|style="font-size:150%;"|Լլ
 | լիւն || լյուն
-| colspan="3" | {{IPA|[lʏn]}}²
-| colspan="3" | {{IPA|[l]}}
+| colspan="3" | [lʏn]
+| colspan="3" | [l]
 | colspan="2" | l
 | 30
 |----
-|style="font-size:150%;"|[[Խ]] [[խ]]
+|style="font-size:150%;"|Խխ
 | խէ || խե
-| {{IPA|[χɛː]}} || colspan="2" | {{IPA|[χɛ]}}
-| colspan="3" | {{IPA|[χ]}}
+| [χɛː] || colspan="2" | [χɛ]
+| colspan="3" | [χ]
 | colspan="2" | x
 | 40
 |----
-|style="font-size:150%;"|[[Ծ]][[ծ]]
+|style="font-size:150%;"|Ծծ
 | colspan="2" | ծա
-| {{IPA|[tsɑ]}} || {{IPA|[tsʼɑ]}} || {{IPA|[dzɑ]}}
-| {{IPA|[ts]}} || {{IPA|[tsʼ]}} || {{IPA|[dz]}}
+| [tsɑ] || [tsʼɑ] || [dzɑ]
+| [ts] || [tsʼ] || [dz]
 | c || ç
 | 50
 |----
-|style="font-size:150%;"|[[Կ]][[կ]]
+|style="font-size:150%;"|Կկ
 | colspan="2" | կեն
-| {{IPA|[kɛn]}} || {{IPA|[kʼɛn]}} || {{IPA|[gɛn]}}
-| {{IPA|[k]}} || {{IPA|[kʼ]}} || {{IPA|[g]}}
+| [kɛn] ||[kʼɛn] || [gɛn]
+| [k] || [kʼ] || [g]
 | colspan="2" | k
 | 60
 |----
-|style="font-size:150%;"|[[Հ]][[հ]]
+|style="font-size:150%;"|Հհ
 | հօ || հո
-| colspan="3" | {{IPA|[ho]}}
-| colspan="3" | {{IPA|[h]}}
+| colspan="3" | [ho]
+| colspan="3" | [h]
 | colspan="2" | h
 | 70
 |----
-|style="font-size:150%;"|[[Ձ]][[ձ]]
+|style="font-size:150%;"|Ձձ
 | colspan="2" | ձա
-| colspan="2" | {{IPA|[dzɑ]}} || {{IPA|[tsʰɑ]}}
-| colspan="2" | {{IPA|[dz]}} || {{IPA|[tsʰ]}}
+| colspan="2" | [dzɑ] || [tsʰɑ]
+| colspan="2" | [dz] || [tsʰ]
 | colspan="2" | j
 | 80
 |----
-|style="font-size:150%;"|[[Ղ]] [[ղ]]
+|style="font-size:150%;"|Ղղ
 | colspan="2" | ղատ
-| {{IPA|[ɮɑt]}} ||{{IPA|[ʁɑtʼ]}} || {{IPA|[ʁɑd]}}
-| {{IPA|[l]}}, or {{IPA|[ɮ]}} || colspan="2" | {{IPA|[ʁ]}}
+| [ɮɑt] ||[ʁɑtʼ] || [ʁɑd]
+| [l], [ɮ] || colspan="2" | [ʁ]
 | ł || ġ
 | 90
 |----
-|style="font-size:150%;"|[[Ճ]] [[ճ]]
+|style="font-size:150%;"|Ճճ
 | ճէ || ճե
-| {{IPA|[tʃɛː]}} ||{{IPA|[tʃʼɛ]}} || {{IPA|[ʤɛ]}}
-| {{IPA|[tʃ]}} || {{IPA|[tʃʼ]}} || {{IPA|[ʤ]}}
+| [tʃɛː] ||[tʃʼɛ] || [ʤɛ]
+| [tʃ] || [tʃʼ] || [ʤ]
 | č || č̣
 | 100
 |----
-|style="font-size:150%;"|[[Մ]][[մ]]
+|style="font-size:150%;"|Մմ
 | colspan="2" | մեն
-| colspan="3" | {{IPA|[mɛn]}}
-| colspan="3" | {{IPA|[m]}}
+| colspan="3" | [mɛn]
+| colspan="3" | [m]
 | colspan="2"| m
 | 200
 |----
-|style="font-size:150%;"|[[Յ]][[յ]]
+|style="font-size:150%;"|Յյ
 | յի || հի
-| {{IPA|[ji]}} || colspan="2" | {{IPA|[hi]}}
-| {{IPA|[j]}} || colspan="2" | {{IPA|[h]}}³, {{IPA|[j]}}
+| [ji] || colspan="2" | [hi]
+| [j] || colspan="2" | [h], [j]
 | colspan="2"| y
 | 300
 |----
-|style="font-size:150%;"|[[Ն]][[ն]]
+|style="font-size:150%;"|Նն
 | colspan="2" | նու
-| colspan="3" | {{IPA|[nu]}}
-| colspan="3" | {{IPA|[n]}}
+| colspan="3" | [nu]
+| colspan="3" | [n]
 | colspan="2"| n
 | 400
 |----
-|style="font-size:150%;"|[[Շ]][[շ]]
+|style="font-size:150%;"|Շշ
 | colspan="2" | շա
-| colspan="3" | {{IPA|[ʃɑ]}}
-| colspan="3" | {{IPA|[ʃ]}}
+| colspan="3" | [ʃɑ]
+| colspan="3" | [ʃ]
 | colspan="2"| š
 | 500
 |----
-|style="font-size:150%;"|[[Ո]][[ո]]
+|style="font-size:150%;"|Ոո
 | colspan="2" | ո
-| {{IPA|[o]}} || colspan="2" | {{IPA|[vo]}}
-| colspan="3" | {{IPA|[o]}}, в начале слова {{IPA|[vo]}}<sup>4</sup>
+| [o]|| colspan="2" | [vo]
+| colspan="3" | [o], [vo]
 | colspan="2"| o
 | 600
 |----
-|style="font-size:150%;"|[[Չ]][[չ]]
+|style="font-size:150%;"|Չչ
 | colspan="2" | չա
-| colspan="3" | {{IPA|[tʃʰɑ]}}
-| colspan="3" | {{IPA|[tʃʰ]}}
+| colspan="3" | [tʃʰɑ]
+| colspan="3" | [tʃʰ]
 | č‘|| č
 | 700
 |----
-|style="font-size:150%;"|[[Պ]][[պ]]
+|style="font-size:150%;"|Պպ
 | պէ || պե
-| {{IPA|[pɛː]}} ||{{IPA|[pʼɛ]}} || {{IPA|[bɛ]}}
-| {{IPA|[p]}} || {{IPA|[pʼ]}} || {{IPA|[b]}}
+| [pɛː] ||[pʼɛ] || [bɛ]
+| [p] || [pʼ] || [b]
 | colspan="2"| p
 | 800
 |----
-|style="font-size:150%;"|[[Ջ]][[ջ]]
+|style="font-size:150%;"|Ջջ
 | ջէ || ջե
-| {{IPA|[ʤɛː]}} ||{{IPA|[ʤɛ]}} || {{IPA|[tʃʰɛ]}}
-| colspan="2" | {{IPA|[ʤ]}} || {{IPA|[tʃʰ]}}
-| colspan="2"| {{Unicode|ǰ}}
+| [ʤɛː] ||[ʤɛ] || [tʃʰɛ]
+| colspan="2" | [ʤ] || [tʃʰ]
+| colspan="2"| ǰ
 | 900
 |----
-|style="font-size:150%;"|[[Ռ]][[ռ]]
+|style="font-size:150%;"|Ռռ
 | colspan="2" | ռա
-| {{IPA|[rɑ]}} || colspan="2" | {{IPA|[ɾɑ]}}
-| {{IPA|[r]}} || colspan="2" | {{IPA|[ɾ]}}
-| r̄ || {{unicode|ṙ}}
+| [rɑ] || colspan="2" | [ɾɑ]
+| [r] || colspan="2" | [ɾ]
+| r̄ || ṙ
 | 1000
 |----
-|style="font-size:150%;"|[[Ս]][[ս]]
+|style="font-size:150%;"|Սս
 | սէ || սե
-| {{IPA|[sɛː]}} || colspan="2" | {{IPA|[sɛ]}}
-| colspan="3" | {{IPA|[s]}}
+| [sɛː] || colspan="2" | [sɛ]
+| colspan="3" | [s]
 | colspan="2" | s
 | 2000
 |----
-|style="font-size:150%;"|[[Վ]][[վ]]
+|style="font-size:150%;"|Վվ
 | վեւ || վեվ
-| colspan="3" | {{IPA|[vɛv]}}
-| colspan="3" | {{IPA|[v]}}
+| colspan="3" | [vɛv]
+| colspan="3" | [v]
 | colspan="2" | v
 | 3000
 |----
-|style="font-size:150%;"|[[Տ]][[տ]]
+|style="font-size:150%;"|Տտ
 | տիւն || տյուն
-| {{IPA|[tʏn]}} || {{IPA|[tʼʏn]}}<sup>5</sup> || {{IPA|[dʏn]}}
-| {{IPA|[t]}} || {{IPA|[tʼ]}} || {{IPA|[d]}}
+| [tʏn] || [tʼʏn] || [dʏn]
+| [t] || [tʼ] || [d]
 | colspan="2" | t
 | 4000
 |----
-|style="font-size:150%;"|[[Ր]][[ր]]
+|style="font-size:150%;"|Րր
 | րէ || րե
-| {{IPA|[ɹɛː]}} || {{IPA|[ɹɛ]}}<sup>6</sup> || {{IPA|[ɾɛ]}}
-| colspan="2" | {{IPA|[ɹ]}}<sup>6</sup> || {{IPA|[ɾ]}}
+| [ɹɛː] || [ɹɛ] || [ɾɛ]
+| colspan="2" | [ɹ] || [ɾ]
 | colspan="2" | r
 | 5000
 |----
-|style="font-size:150%;"|[[Ց]][[ց]]
+|style="font-size:150%;"|Ցց
 | ցօ || ցո
-| colspan="3" | {{IPA|[tsʰo]}}
-| colspan="3" | {{IPA|[tsʰ]}}
+| colspan="3" | [tsʰo]
+| colspan="3" | [tsʰ]
 | colspan="2" | c‘
 | 6000
 |----
-|style="font-size:150%;"|[[Ու]][[ու]]
-| հիւն || —<sup>7</sup>
-| colspan="3" | {{IPA|[hʏn]}}
-| {{IPA|[w]}} || colspan="2" | {{IPA|[v]}}<sup>8</sup>
+|style="font-size:150%;"|Ուու
+| հիւն || —
+| colspan="3" | [hʏn]
+| [w] || colspan="2" | [v]
 | colspan="2" | u
 | 7000
 |----
-|style="font-size:150%;"|[[Փ]][[փ]]
+|style="font-size:150%;"|Փփ
 | փիւր || փյուր
-| colspan=2 | {{IPA|[pʰʏɹ]}}<sup>9</sup> || {{IPA|[pʰʏɾ]}}
-| colspan="3" | {{IPA|[pʰ]}}
+| colspan=2 | [pʰʏɹ] || [pʰʏɾ]
+| colspan="3" | [pʰ]
 | colspan="2" | p‘
 | 8000
 |----
-|style="font-size:150%;"|[[Ք]][[ք]]
+|style="font-size:150%;"|Քք
 | քէ || քե
-| {{IPA|[kʰɛː]}} || colspan="2" | {{IPA|[kʰɛ]}}
-| colspan="3" | {{IPA|[kʰ]}}
+| [kʰɛː] || colspan="2" | [kʰɛ]
+| colspan="3" | [kʰ]
 | colspan="2" | k‘
 | 9000
 |----
-|style="font-size:150%;"|[[Օ]][[օ]]
+|style="font-size:150%;"|Օօ
 | colspan="2" | օ
-| colspan="3" | {{IPA|[o]}}
-| colspan="3" | {{IPA|[o]}}
+| colspan="3" | [o]
+| colspan="3" | [o]
 | ô || ò
 | —
 |----
-|style="font-size:150%;"|[[Ֆ]][[ֆ]]
+|style="font-size:150%;"|Ֆֆ
 | ֆէ || ֆե
-| {{IPA|[fɛː]}} || colspan="2" | {{IPA|[fɛ]}}
-| colspan="3" | {{IPA|[f]}}
+| [fɛː] || colspan="2" | [fɛ]
+| colspan="3" | [f]
 | colspan="2" | f
 | —
 |-
 |}
+
+'''лигатураяс:'''
+մ+ն - ﬓ mn, մ+ե - ﬔ me, մ+ի - ﬕ mi, վ+ն - ﬖ vn, մ+խ - ﬗ mx, և ев
+
+== Ыстӧдъяс ==
+
+* [http://wals.info/languoid/lect/wals_code_arm The World Atlas of Language Structures Online - Armenian (Eastern)]
+* [http://in-yaz-book.ru/armyan.html Самоучители, учебники и разговорник армянского языка]
+* [http://www.avc-agbu.org/home.php?page=home_&lang=ru_utf8 АВБС — Армянский виртуальный колледж — Первый онлайн университета изучить армянский]
+* [http://www.vitaeauct.narod.ru/011/vrb/bk_0001/0405.htm Формирование лингвистической мысли в Армении]
+* [http://www.hayeren.hayastan.com/ Сайт на армянском и на русском об армянском (+ самоучители)]
+* [http://czudovo.info/list.php?what=1&ln=hy&in=from_ru Русско-армянский словарь]
+* [http://www.utexas.edu/cola/centers/lrc/general/IE.html Classical Armenian Online]
+* [http://www.lingvoconverter.com/translit/rukirilic/armen Транслитерация армянского и русского языков]
+* Переводчики и словари: http://www.translator.am/ * http://www.translate.am/ * [http://www.diktionary.info/index.php/index/Английско-армянский+словарь.xhtml http://www.diktionary.info]
+* [http://www.primavista.ru/rus/example/e_armenian Особенности перевода на армянский язык]
 
 {{Stub}}
 
