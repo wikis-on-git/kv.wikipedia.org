@@ -74,7 +74,7 @@
  | style="background-color: #efefef;" | U u || U u || style="background-color: #ddddff;" | u
  | style="background-color: #efefef;" | Ɵ ɵ || OE oe || style="background-color: #ddddff;" | o
  |}
-||
+{| 
  {| class="toccolours" border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; margin-left: 1em;"
  |+ Тонъяс:
  ! scope="col" | тон
@@ -84,7 +84,7 @@
  ! scope="col" style="background-color: #ddddff;" | шуанног
  |-
  ! scope="row" | 1
- | colspan="2" | Not indicated || style="background-color: #ddddff;" | 24
+ | colspan="2" | - || style="background-color: #ddddff;" | 24
  | style="background-color: #ddddff;" | /˨˦/
  |-
  ! scope="row" | 2
