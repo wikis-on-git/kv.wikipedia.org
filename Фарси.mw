@@ -3,8 +3,7 @@
 
 == Фарси анбур ==
 
-[[Файл:Dir nashode .jpg|thumb|right||300px| (фарси араб гижанног)]]
-[[Файл:Shahnameh3-1.jpg|thumb|right||300px]]
+[[Файл:Shahnameh3-1.jpg|thumb|right||150px]]
 
 {| class="standard"
 |-
@@ -17,7 +16,7 @@
 ! шуанног
 ! кирилл транслитерация
 |- align="center" style="height: 3em"
-| [[Файл:АAlef.PNG|30px]]
+| ﺍ
 | آ / ا
 | ﺎ
 | ﺎ
@@ -26,7 +25,7 @@
 | [ɒ], [æ], [ʔ]
 | а, е, ъ
 |- align="center" style="height: 3em"
-| [[Файл:Be.PNG|30px]]
+| ﺏ
 | ﺑ
 | ﺒ
 | ﺐ
@@ -34,234 +33,288 @@
 | b || [b]
 | б
 |- align="center" style="height: 3em"
-| [[Файл:Pe.PNG|30px]]
-| {{ar2|ﭘ}}
-| {{ar2|ﭙ}}
-| {{ar2|پ}}
-| [[Пе (буква персидского алфавита)|pe]]
-| {{Unicode|p}} || {{IPA1|[p]}}
+| ﭖ
+| ﭘ
+| ﭙ
+| پ
+| pe
+| p || [p]
 | п
 |- align="center" style="height: 3em"
-| [[Файл:Te.PNG|30px]]
-| {{ar2|ﺗ}}
-| {{ar2|ﺘ}}
-| {{ar2|ﺖ}}
-| {{Unicode|te}}
-| {{Unicode|t}} || {{IPA1|[t]}}
+| ﺕ
+| ﺗ
+| ﺘ
+| ﺖ
+| te
+| t || [t]
 | т
 |- align="center" style="height: 3em"
-| [[Файл:Se.PNG|30px]]
-| {{ar2|ﺛ}}
-| {{ar2|ﺜ}}
-| {{ar2|ﺚ}}
-| {{Unicode|se}}
-| {{Unicode|s}} || {{IPA1|[s]}}
+| ﺙ
+| ﺛ
+| ﺜ
+| ﺚ
+| se
+| s || [s]
 | с
 |- align="center" style="height: 3em"
-| [[Файл:Jim.PNG|30px]]
-| {{ar2|ﺟ}}
-| {{ar2|ﺠ}}
-| {{ar2|ﺞ}}
-| {{Unicode|jim}}
-| {{Unicode|j / ǰ}}
-| {{IPA1|[ʤ]}}
+| ﺝ
+| ﺟ
+| ﺠ
+| ﺞ
+| jim
+| j / ǰ
+| [ʤ]
 | дж
 |- align="center" style="height: 3em"
-| [[Файл:Che.PNG|30px]]
-| {{ar2|ﭼ }}
-| {{ar2|ﭽ}}
-| {{ar2|چ}}
-| {{Unicode|che}}
-| {{Unicode|č / ch}} || {{IPA1|[ʧ]}}
+| ﭺ
+| ﭼ 
+| ﭽ
+| چ
+| che
+| č / ch || [ʧ]
 | ч
 |- align="center" style="height: 3em"
-| [[Файл:He.PNG|30px]]
-| {{ar2|ﺣ}}
-| {{ar2|ﺤ}}
-| {{ar2|ﺢ}}
+| ﺡ
+| ﺣ
+| ﺤ
+| ﺢ
 | hā-ye hotti
-| {{Unicode|h}} || {{IPA1|[h]}}
+| h || [h]
 | х
 |- align="center" style="height: 3em"
-| [[Файл:Khe.PNG|30px]]
-| {{ar2|ﺧ}}
-| {{ar2|ﺨ}}
-| {{ar2|ﺦ}}
-| {{Unicode|khe}}
-| {{Unicode|x}} / {{Unicode|kh}} || {{IPA1|[x]}}
+| ﺥ
+| ﺧ
+| ﺨ
+| ﺦ
+| khe
+| x / kh || [x]
 | х
 |- align="center" style="height: 3em"
-| [[Файл:Dal.PNG|30px]]
-| colspan="1" | — || — || {{ar2|ﺪ}}
-| {{Unicode|dāl}}
-| {{Unicode|d}} || {{IPA1|[d]}}
+| ﺩ
+| colspan="1" | — || — || ﺪ
+| dāl
+| d || [d]
 | д
 |- align="center" style="height: 3em"
-| [[Файл:Zal.PNG|30px]]
-| colspan="1" | — || — || {{ar2|ﺬ}}
-| {{Unicode|zāl}}
-| {{Unicode|z}} || {{IPA1|[z]}}
+| ﺫ
+| colspan="1" | — || — || ﺬ
+| zāl
+| z || [z]
 | з
 |- align="center" style="height: 3em"
-| [[Файл:Re.PNG|30px]]
-| colspan="1" | — || — || {{ar2|ﺮ}}
-| {{Unicode|re}}
-| {{Unicode|r}} || {{IPA1|[ɾ]}}
+| ﺭ
+| colspan="1" | — || — || ﺮ
+| re
+| r || [ɾ]
 | р
 |- align="center" style="height: 3em"
-| [[Файл:Ze.PNG|30px]]
-| colspan="1" | — || — || {{ar2|ﺰ}}
-| {{Unicode|ze}}
-| {{Unicode|z}} || {{IPA1|[z]}}
+| ﺯ
+| colspan="1" | — || — || ﺰ
+| ze
+| z || [z]
 | з
 |- align="center" style="height: 3em"
-| [[Файл:Zhe.PNG|30px]]
-| colspan="1" | — || — || {{ar2|ژ}}
-| {{Unicode|zhe}}
-| {{Unicode|ž / zh}} || {{IPA1|[ʒ]}}
+| ﮊ
+| colspan="1" | — || — || ژ
+| zhe
+| ž / zh || [ʒ]
 | ж
 |- align="center" style="height: 3em"
-| [[Файл:Sin.PNG|30px]]
-| {{ar2|ﺳ}}
-| {{ar2|ﺴ}}
-| {{ar2|ﺲ}}
-| {{Unicode|sin}}
-| {{Unicode|s}} || {{IPA1|[s]}}
+| ﺱ
+| ﺳ
+| ﺴ
+| ﺲ
+| sin
+| s || [s]
 | с
 |- align="center" style="height: 3em"
-| [[Файл:Shin.PNG|30px]]
-| {{ar2|ﺷ}}
-| {{ar2|ﺸ}}
-| {{ar2|ﺶ}}
-| {{Unicode|šin}}
-| {{Unicode|š}} / {{Unicode|sh}} || {{IPA1|[ʃ]}}
+| ﺵ
+| ﺷ
+| ﺸ
+| ﺶ
+| šin
+| š / sh || [ʃ]
 | ш
 |- align="center" style="height: 3em"
-| [[Файл:Sad.PNG|30px]]
-| {{ar2|ﺻ}}
-| {{ar2|ﺼ}}
-| {{ar2|ﺺ}}
-| {{Unicode|sād}}
-| {{Unicode|s}} / {{Unicode|ş}} || {{IPA1|[s]}}
+| ﺹ
+| ﺻ
+| ﺼ
+| ﺺ
+| sād
+| s / ş || [s]
 | с
 |- align="center" style="height: 3em"
-| [[Файл:Zad.PNG|30px]]
-| {{ar2|ﺿ}}
-| {{ar2|ﻀ}}
-| {{ar2|ﺾ}}
-| {{Unicode|zād}}
-| {{Unicode|z}} || {{IPA1|[z]}}
+| ﺽ
+| ﺿ
+| ﻀ
+| ﺾ
+| zād
+| z || [z]
 | з
 |- align="center" style="height: 3em"
-| [[Файл:Ta.PNG|30px]]
-| {{ar2|ﻃ}}
-| {{ar2|ﻄ}}
-| {{ar2|ﻂ}}
-| {{Unicode|tā}}
-| {{Unicode|t}} || {{IPA1|[t]}}
+| ﻁ
+| ﻃ
+| ﻄ
+| ﻂ
+| tā
+| t || [t]
 | т
 |- align="center" style="height: 3em"
-| [[Файл:Za.PNG|30px]]
-| {{ar2|ﻇ}}
-| {{ar2|ﻈ}}
-| {{ar2|ﻆ}}
-| {{Unicode|zā}}
-| {{Unicode|z / z̧ / ẓ / ẕ}} || {{IPA1|[z]}}
+| ﻅ
+| ﻇ
+| ﻈ
+| ﻆ
+| zā
+| z / z̧ / ẓ / ẕ || [z]
 | с
 |- align="center" style="height: 3em"
-| [[Файл:Eyn.PNG|30px]]
-| {{ar2|ﻋ}}
-| {{ar2|ﻌ}}
-| {{ar2|ﻊ}}
-| {{Unicode|eyn}}
-| {{Unicode|ʻ}} / {{Unicode|‘}} || {{IPA1|[ʔ]}}
+| ﻉ
+| ﻋ
+| ﻌ
+| ﻊ
+| eyn
+| ʻ / ‘ || [ʔ]
 | — / ъ
 |- align="center" style="height: 3em"
-| [[Файл:Qeyn.PNG|30px]]
-| {{ar2|ﻏ}}
-| {{ar2|ﻐ}}
-| {{ar2|ﻎ}}
-| {{Unicode|qeyn}}
-| {{Unicode|gh / ġ}}, {{Unicode|q-}} || {{IPA1|[ɣ]}}, {{IPA1|[ɢ-]}}
+| ﻍ
+| ﻏ
+| ﻐ
+| ﻎ
+| qeyn
+| gh / ġ, q- || [ɣ], [ɢ-]
 | г
 |- align="center" style="height: 3em"
-| [[Файл:Fe.PNG|30px]]
-| {{ar2|ﻓ}}
-| {{ar2|ﻔ}}
-| {{ar2|ﻒ}}
-| {{Unicode|fe}}
-| {{Unicode|f}} || {{IPA1|[f]}}
+| ﻑ
+| ﻓ
+| ﻔ
+| ﻒ
+| fe
+| f || [f]
 | ф
 |- align="center" style="height: 3em"
-| [[Файл:Qaf.PNG|30px]]
-| {{ar2|ﻗ}}
-| {{ar2|ﻘ}}
-| {{ar2|ﻖ}}
-| {{Unicode|qāf}}
-| {{Unicode|gh / ġ}}, {{Unicode|q-}} || {{IPA1|[ɣ]}}, {{IPA1|[ɢ-]}}
+| ﻕ
+| ﻗ
+| ﻘ
+| ﻖ
+| qāf
+| gh / ġ, q- || [ɣ], [ɢ-]
 | к
 |- align="center" style="height: 3em"
-| [[Файл:Kaf.PNG|30px]]
-| {{ar2|ﮐ}}
-| {{ar2|ﮑ}}
-| {{ar2|ﮏ}}
-| {{Unicode|kāf}}
-| {{Unicode|k}} || {{IPA1|[k]}}
+| ﮎ
+| ﮐ
+| ﮑ
+| ﮏ
+| kāf
+| k || [k]
 | к
 |- align="center" style="height: 3em"
-| [[Файл:Gaf.PNG|30px]]
-| {{ar2|ﮔ}}
-| {{ar2|ﮕ}}
-| {{ar2|ﮓ}}
-| {{Unicode|gāf}}
-| {{Unicode|g}} || {{IPA1|[g]}}
+| ﮒ
+| ﮔ
+| ﮕ
+| ﮓ
+| gāf
+| g || [g]
 | г
 |- align="center" style="height: 3em"
-| [[Файл:Lam.PNG|30px]]
-| {{ar2|ﻟ}}
-| {{ar2|ﻠ}}
-| {{ar2|ﻞ}}
-| {{Unicode|lām}}
-| {{Unicode|l}} || {{IPA1|[l]}}
+| ﻝ
+| ﻟ
+| ﻠ
+| ﻞ
+| lām
+| l || [l]
 | л
 |- align="center" style="height: 3em"
-| [[Файл:Mim.PNG|30px]]
-| {{ar2|ﻣ}}
-| {{ar2|ﻤ}}
-| {{ar2|ﻢ}}
-| {{Unicode|mim}}
-| {{Unicode|m}} || {{IPA1|[m]}}
+| ﻡ
+| ﻣ
+|ﻤ
+| ﻢ
+| mim
+| m || [m]
 | м
 |- align="center" style="height: 3em"
-| [[Файл:Nun.PNG|30px]]
-| {{ar2|ﻧ}}
-| {{ar2|ﻨ}}
-| {{ar2|ﻦ}}
-| {{Unicode|nun}}
-| {{Unicode|n}} || {{IPA1|[n]}}
+| ﻥ
+| ﻧ
+| ﻨ
+| ﻦ
+| nun
+| n || [n]
 | н
 |- align="center" style="height: 3em"
-| [[Файл:Vav.PNG|30px]]
-| colspan="1" | — || — || {{ar2|ﻮ}}
-| {{Unicode|vāv}}
-| {{Unicode|v}}, {{Unicode|u}}, {{Unicode|[ow]}} || {{IPA1|[v]}}, {{IPA1|[u]}}, {{IPA1|[ow]}}
+| ﻭ
+| colspan="1" | — || — || ﻮ
+| vāv
+| v, u, [ow] || [v], [u], [ow]
 | в, у, оу
 |- align="center" style="height: 3em"
-| [[Файл:Ha-ye havvaz.PNG|30px]]
-| {{ar2|ﻫ}}
-| {{ar2|ﻬ}}
-| {{ar2|ﻪ}}
-| {{Unicode|hā-ye havvaz}}
-| {{Unicode|h}} || {{IPA1|[h]}}
+| ﻩ
+| ﻫ
+| ﻬ
+| ﻪ
+| hā-ye havvaz
+| h || [h]
 | х
 |- align="center" style="height: 3em"
-| [[Файл:Ya.PNG|30px]]
-| {{ar2|ﻳ}}
-| {{ar2|ﻴ}}
-| {{ar2|ﯽ}}
-| {{Unicode|yā/ye}}
-| {{Unicode|y}} , {{Unicode|i}}, {{Unicode|[ey]}} || {{IPA1|[j]}} , {{IPA1|[i]}}, {{IPA1|[ej]}}
+| ﻱ
+| ﻳ
+| ﻴ
+| ﯽ
+| yā/ye
+| y , i, [ey] || [j] , [i], [ej]
 | й, и, эй
+|}
+
+'''Латин анбур (СССР 1931 - 1938):'''
+
+{| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
+| style="width:3em; text-align:center; padding: 3px;" | A a
+| style="width:3em; text-align:center; padding: 3px;" | B в
+| style="width:3em; text-align:center; padding: 3px;" | C c
+| style="width:3em; text-align:center; padding: 3px;" | Ç ç
+| style="width:3em; text-align:center; padding: 3px;" | D d
+| style="width:3em; text-align:center; padding: 3px;" | E e
+| style="width:3em; text-align:center; padding: 3px;" | Ә ә
+| style="width:3em; text-align:center; padding: 3px;" | F f
+|-
+| style="width:3em; text-align:center; padding: 3px;" | G g
+| style="width:3em; text-align:center; padding: 3px;" | H h
+| style="width:3em; text-align:center; padding: 3px;" | I i
+| style="width:3em; text-align:center; padding: 3px;" | J j
+| style="width:3em; text-align:center; padding: 3px;" | K k
+| style="width:3em; text-align:center; padding: 3px;" | L l
+| style="width:3em; text-align:center; padding: 3px;" | M m
+| style="width:3em; text-align:center; padding: 3px;" | N n
+|-
+| style="width:3em; text-align:center; padding: 3px;" | O o
+| style="width:3em; text-align:center; padding: 3px;" | P p
+| style="width:3em; text-align:center; padding: 3px;" | Q q
+| style="width:3em; text-align:center; padding: 3px;" | R r
+| style="width:3em; text-align:center; padding: 3px;" | S s
+| style="width:3em; text-align:center; padding: 3px;" | Ş ş
+| style="width:3em; text-align:center; padding: 3px;" | T t
+| style="width:3em; text-align:center; padding: 3px;" | U u
+|-
+| style="width:3em; text-align:center; padding: 3px;" | V v
+| style="width:3em; text-align:center; padding: 3px;" | X x
+| style="width:3em; text-align:center; padding: 3px;" | Z z
+| style="width:3em; text-align:center; padding: 3px;" | Ƶ ƶ
+| style="width:3em; text-align:center; padding: 3px;" | '
+|}
+
+'''Латин анбур Unipers:'''
+
+{| cellpadding=4 style="text-align:center;"
+|-
+|A a || Â â || B b || C c || D d || E e || F f || G g || H h || I i
+|-
+| /æ/ || /ɑː/ || /b/ || /ʧ/ || /d/ || /e/ || /f/ || /ɡ/ || /h/ || /i/
+|-
+| J j || K k || L l || M m || N n || O o || P p || Q q || R r || S s
+|-
+| /dʒ/ || /k/ || /l/ || /m/ || /n/ || /o/ || /p/ || /ɣ/ || /ɾ/ || /s/ ||
+|-
+| Š š || T t || U u || V v || W w || X x || Y y || Z z || Ž ž || '
+|-
+| /ʃ/ || /t/ || /u/ || /v/ || /w/ || /χ/ || /j/ || /z/ || /ʒ/ || /ʔ/
 |}
 
 
