@@ -5,7 +5,7 @@
 <div style="clear:both;float:left">
 {| class="wikitable" style="text-align:center"
 |-valign=top
-!colspan="2"|&nbsp;!!ä<br>[ə]!!u!!i!!a!!e!!ə<br>[ɨ]!!o!!wa!!yä<br>[jə]
+!colspan="2"|&nbsp;!!ä<br />[ə]!!u!!i!!a!!e!!ə<br />[ɨ]!!o!!wa!!yä<br />[jə]
 |-style="font-size:2em"
 !style="font-size:0.5em"|Hoy
 !style="font-size:0.5em"|h
@@ -76,7 +76,7 @@
 <div style="float:left">
 {| class="wikitable" style="text-align:center"
 |-valign=top
-!colspan="2"|&nbsp;!!ä<br>[ə]!!u!!i!!a!!e!!ə<br>[ɨ]!!o!!wa!!yä<br>[jə]
+!colspan="2"|&nbsp;!!ä<br />[ə]!!u!!i!!a!!e!!ə<br />[ɨ]!!o!!wa!!yä<br />[jə]
 |-style="font-size:2em"
 !style="font-size:0.5em"|Kaf
 !style="font-size:0.5em"|k
@@ -176,15 +176,15 @@ baʿilata mindābē laʾasaslō kʷīlū ʾikūyān warasīʿān
 
 == Ыстӧдъяс ==
 
-*[http://www.lingvokit.com/geez/dictionary.html Словарь геэза]
-*[http://www.ranhacohen.info/Biblia.html Библия по геэз]
-*[http://forum-orientalia.com/forum/30-148-1 Сведения по геэзу]
-*[http://www.classicalethiopic.blogspot.com A blog on Classical Ethiopic (Ge'ez)]
-*[http://www.tertullian.org/fathers/harden_ethiopic_literature.htm J. M.Harden, ''An Introduction to Ethiopic Christian Literature'' (1926)]
-*[http://www.unicode.org/charts/PDF/U1200.pdf Unicode Chart]
-*[http://www.senamirmir.com/projects/typography/typeface.html Senamirmir Projects:  Free Ethiopic Font (Win32, MacOS, Linux)]
-*[http://familientagebuch.de/rainer/2010/27.html#3 Type writing machine for ge'ez] 
-*[http://www.waltainfo.com/index.php?option=com_content&task=view&id=24677&Itemid=52 Researcher identifies second-oldest Ethiopian manuscript in existence in HMML’s archives]
+* [http://www.lingvokit.com/geez/dictionary.html Словарь геэза]
+* [http://www.ranhacohen.info/Biblia.html Библия по геэз]
+* [http://forum-orientalia.com/forum/30-148-1 Сведения по геэзу]
+* [http://www.classicalethiopic.blogspot.com A blog on Classical Ethiopic (Ge'ez)]
+* [http://www.tertullian.org/fathers/harden_ethiopic_literature.htm J. M.Harden, ''An Introduction to Ethiopic Christian Literature'' (1926)]
+* [http://www.unicode.org/charts/PDF/U1200.pdf Unicode Chart]
+* [http://www.senamirmir.com/projects/typography/typeface.html Senamirmir Projects: Free Ethiopic Font (Win32, MacOS, Linux)]
+* [http://familientagebuch.de/rainer/2010/27.html#3 Type writing machine for ge'ez] 
+* [http://www.waltainfo.com/index.php?option=com_content&task=view&id=24677&Itemid=52 Researcher identifies second-oldest Ethiopian manuscript in existence in HMML’s archives]
 
 [[Категория:Кыв]]
 [[Категория:Семит кывъяс]]
@@ -226,6 +226,7 @@ baʿilata mindābē laʾasaslō kʷīlū ʾikūyān warasīʿān
 [[pms:Lenga Geez]]
 [[pt:Língua ge'ez]]
 [[ro:Limba gî'îz]]
+[[ru:Геэз]]
 [[sh:Giz]]
 [[sl:Giz]]
 [[sv:Ge'ez]]
