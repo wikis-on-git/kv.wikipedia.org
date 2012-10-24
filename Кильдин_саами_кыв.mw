@@ -6,57 +6,23 @@
 
 === Ӧнія кирилл ===
 
-{| style="font-family:Arial; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
-| style="width:3em; text-align:center; padding: 3px;" | А а
-| style="width:3em; text-align:center; padding: 3px;" | Ӓ ӓ
-| style="width:3em; text-align:center; padding: 3px;" | Б б
-| style="width:3em; text-align:center; padding: 3px;" | В в
-| style="width:3em; text-align:center; padding: 3px;" | Г г
-| style="width:3em; text-align:center; padding: 3px;" | Д д
-| style="width:3em; text-align:center; padding: 3px;" | Е е
-| style="width:3em; text-align:center; padding: 3px;" | Ё ё
-|-
-| style="width:3em; text-align:center; padding: 3px;" | Ж ж
-| style="width:3em; text-align:center; padding: 3px;" | З з
-| style="width:3em; text-align:center; padding: 3px;" | '
-| style="width:3em; text-align:center; padding: 3px;" | (Һ һ)
-| style="width:3em; text-align:center; padding: 3px;" | И и
-| style="width:3em; text-align:center; padding: 3px;" | Й й
-| style="width:3em; text-align:center; padding: 3px;" | Ҋ ҋ
-| style="width:3em; text-align:center; padding: 3px;" | (Ј ј)
-|-
-| style="width:3em; text-align:center; padding: 3px;" | К к
-| style="width:3em; text-align:center; padding: 3px;" | Л л
-| style="width:3em; text-align:center; padding: 3px;" | Ӆ ӆ
-| style="width:3em; text-align:center; padding: 3px;" | М м
-| style="width:3em; text-align:center; padding: 3px;" | Ӎ ӎ
-| style="width:3em; text-align:center; padding: 3px;" | Н н
-| style="width:3em; text-align:center; padding: 3px;" | Ӊ ӊ
-| style="width:3em; text-align:center; padding: 3px;" | Ӈ ӈ
-|-
-| style="width:3em; text-align:center; padding: 3px;" | О о
-| style="width:3em; text-align:center; padding: 3px;" | П п
-| style="width:3em; text-align:center; padding: 3px;" | Р р
-| style="width:3em; text-align:center; padding: 3px;" | Ҏ ҏ
-| style="width:3em; text-align:center; padding: 3px;" | С с
-| style="width:3em; text-align:center; padding: 3px;" | Т т
-| style="width:3em; text-align:center; padding: 3px;" | У у
-| style="width:3em; text-align:center; padding: 3px;" | Ф ф
-|-
-| style="width:3em; text-align:center; padding: 3px;" | Х х
-| style="width:3em; text-align:center; padding: 3px;" | Ц ц
-| style="width:3em; text-align:center; padding: 3px;" | Ч ч
-| style="width:3em; text-align:center; padding: 3px;" | Ш ш
-| style="width:3em; text-align:center; padding: 3px;" | Щ щ
-| style="width:3em; text-align:center; padding: 3px;" | Ъ ъ
-| style="width:3em; text-align:center; padding: 3px;" | Ы ы
-|-
-| style="width:3em; text-align:center; padding: 3px;" | Ь ь
-| style="width:3em; text-align:center; padding: 3px;" | Ҍ ҍ
-| style="width:3em; text-align:center; padding: 3px;" | Э э
-| style="width:3em; text-align:center; padding: 3px;" | Ӭ ӭ
-| style="width:3em; text-align:center; padding: 3px;" | Ю ю
-| style="width:3em; text-align:center; padding: 3px;" | Я я
+{| class="standard" style="font-size:1.2em"
+|- align="center"
+! А а || Ӓ ӓ || Б б || В в || Г г || Д д || Е е || Ё ё || Ж ж || З з || Һ һ
+|- align="center"
+| /a/ || /*a/ || /b/ || /v/ || /g/ || /d/ || /je/ || / jo/ || /ʒ/ || /z/ || /ʰ/
+|- align="center"
+! И и || Й й || Ҋ ҋ || Ј ј || К к || Л л || Ӆ ӆ || М м || Ӎ ӎ || Н н || Ӊ ӊ
+|- align="center"
+| /i/ || /j/ ||colspan="2"| /ç/ || /k/ || /l/ || /ɬ/ || /m/ || /m̥/ || /n/ || /n̥/
+|- align="center"
+! Ӈ ӈ || О о || П п || Р р || Ҏ ҏ || С с || Т т || У у || Ф ф || Х х || Ц ц
+|- align="center"
+| /ŋ/ || /o/ || /p/ || /r/ || /r̥/ || /s/ || /t/ || /u/ || /f/ || /x/ || /ts/
+|- align="center"
+! Ч ч || Ш ш || Щ щ || Ъ ъ || Ыы || Ь ь || Ҍ ҍ || Э э || Ӭ ӭ || Ю ю || Я я
+|- align="center"
+| /tʃ/ || /ʃ/ || / ʃj/ || /'/ || /ɨ/ || /j/ || * || /e/ || /*e/ || /ju/ || /ja/
 |}
 
 === Латин ([[1934]] - [[1937]]) ===
@@ -175,11 +141,11 @@
 |-
 ! Ӧтка лыд !! Вуджӧдӧм  !! Уна лыд !! Вуджӧдӧм
 |-
-| эмм е̄ ль || ог ов || ебпь е̄ ль || огӧ олӧй
+| эмм е̄ль || ог ов || ебпь е̄ль || огӧ олӧй
 |-
-| эгк е̄ ль || он ов || ебпе е̄ ль || онӧ олӧй
+| эгк е̄ль || он ов || ебпе е̄ль || онӧ олӧй
 |-
-| эйй е̄ ль || оз ов || ев е̄ ль || оз овны
+| эйй е̄ль || оз ов || ев е̄ль || оз овны
 |}
 
 '''Колян кад'''
@@ -201,11 +167,11 @@
 |-
 ! Ӧтка лыд !! Вуджӧдӧм  !! Уна лыд !! Вуджӧдӧм
 |-
-| эмм ̄я̄лла, эмм ̄я̄ллма || эг ов || ебпь я̄лла, ебпь ̄я̄ллма || эгӧ олӧй
+| эмм я̄лла, ̄эмм я̄ллма|| эг ов || ебпь я̄лла, ебпь я̄ллма || эгӧ олӧй
 |-
-| эгк я̄лла, эгк ̄я̄ллма || эн ов || ебпе я̄лла, ебпе ̄я̄ллма || энӧ олӧй
+| эгк я̄лла, эгк я̄ллма || эн ов || ебпе я̄лла, ебпе я̄ллма || энӧ олӧй
 |-
-| эйй я̄лла, эйй ̄я̄ллма || эз ов || ев я̄лла, ев ̄я̄ллма || эз овны
+| эйй я̄лла, эйй я̄ллма || эз ов || ев я̄лла, ев я̄ллма || эз овны
 |}
 
 === Лыдакывъяс ===
