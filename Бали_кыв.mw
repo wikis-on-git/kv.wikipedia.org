@@ -41,7 +41,7 @@
 |-
 | rowspan="2" bgcolor="F0F8FF" width="20%" align="center"| '''Warga'''
 | align=center bgcolor="F0F8FF" colspan=3 width=""| '''Aksara suara hresua (дженьыд)'''
-| align=center bgcolor="F0F8FF" rowspan=2 width=""| '''Name'''
+| align=center bgcolor="F0F8FF" rowspan=2 width=""| '''Ним'''
 | align=center bgcolor="F0F8FF" colspan=3 width=""| '''Aksara suara dirgha (кузь)'''
 |-
 ! align=center width="10%"| шыпас
@@ -175,6 +175,116 @@
 | align=center|[[Файл:Bali Wa.png|center|40px|link=]](Wa) Wa
 | colspan="2"|
 |}
+
+=== Консонант пасъяс ===
+
+{| class="wikitable" align="center" width="90%" style="clear:both;margin:0; font-size:90%"
+|-
+| colspan="9" bgcolor="ccccff" align="center"|'''Gantungan/Gempelan'''
+|-
+| rowspan="2" bgcolor="F0F8FF" align="center"|'''Warga'''
+| colspan="5" bgcolor="F0F8FF" align="center"|'''Pancawalimukha'''
+| width="10%" rowspan="2" bgcolor="F0F8FF" align="center"|'''Ardhasuara'''
+| width="10%" rowspan="2" bgcolor="F0F8FF" align="center"|'''Usma'''
+| rowspan="2" bgcolor=F0F8FF align="center"|'''Wisarga'''
+|-
+! colspan=2|
+! colspan=2|
+!  
+|-
+| width="20%" align=center|'''Kanthya''' 
+| width="10%" align=center|[[File:Bali G. Ka.png|center|50px|link=]]Ka
+| width="10%" align=center|
+| width="10%" align=center|[[File:Bali G. Ga.png|center|50px|link=]]Ga
+| width="10%" align=center|[[File:Bali G. Gha.png|center|50px|link=]]Ga gora
+| width="10%" align=center|[[File:Bali G. Nga.png|center|50px|link=]]Nga
+| colspan=2|
+| width="10%" align=center|[[File:Bali G. Ha.png|center|50px|link=]]Ha
+|-
+| align=center bgcolor="white"|'''Talawya''' 
+| align=center bgcolor="white"|[[File:Bali G. Ca.png|center|50px|link=]]Ca murca
+| align=center bgcolor="white"|[[File:Bali Calaca.png|center|50px|link=]]Ca laca
+| align=center bgcolor="white"|[[File:Bali G. Ja.png|center|50px|link=]]Ja
+| align=center bgcolor="white"|
+| align=center bgcolor="white"|[[File:Bali G. Nya.png|center|50px|link=]]Nya
+| align=center bgcolor="white"|[[File:Bali G. Ya, Nania.png|center|50px|link=]]Ya
+| align=center bgcolor="white"|[[File:Bali G. Sha.png|center|50px|link=]]Sa saga
+| rowspan=3|
+|-
+| align=center|'''Murdhanya''' 
+| align=center|[[File:Bali G. Tta.png|center|50px|link=]]Ta latik
+| align=center|
+| align=center|[[File:Bali G. Dda.png|center|50px|link=]]Da madu m.
+| align=center|
+| align=center|[[File:Bali G. Nna.png|center|50px|link=]]Na rambat
+| align=center|[[File:Bali G. Ra, Cakra.png|center|50px|link=]]Ra
+| align=center|[[File:Bali G. Ssa.png|center|50px|link=]]Sa sapa
+|-
+| align=center bgcolor="white"|'''Dantya''' 
+| align=center bgcolor="white"|[[File:Bali G. Ta.png|center|50px|link=]]Ta
+| align=center bgcolor="white"|[[File:Bali G. Tha, Guung-Macelek.png|center|50px|link=]]Ta tawa
+| align=center bgcolor="white"|[[File:Bali G. Da.png|center|50px|link=]]Da lindung
+| align=center bgcolor="white"|[[File:Bali G. Dha.png|center|50px|link=]]Da madu
+| align=center bgcolor="white"|[[File:Bali G. Na.png|center|50px|link=]]Na kojong
+| align=center bgcolor="white"|[[File:Bali G. La.png|center|50px|link=]]La
+| align=center bgcolor="white"|[[File:Bali G. Sa.png|center|50px|link=]]Sa danti
+|-
+| align=center|'''Osthya''' 
+| align=center|[[File:Bali G. Ba.png|center|50px|link=]]Ba
+| align=center|[[File:Bali G. Bha.png|center|50px|link=]]Ba kembang
+| align=center|[[File:Bali G. Pa.png|center|50px|link=]]Pa
+| align=center|[[File:Bali G. Pha.png|center|50px|link=]]Pa kapal
+| align=center|[[File:Bali G. Ma.png|center|50px|link=]]Ma
+| align=center|[[File:Bali G. Wa, Suku-Kembung.png|center|50px|link=]]Wa
+| colspan="2"|
+|}
+
+{| class=wikitable align=center
+|-
+! align=center| шыпас
+! align=center| шуанног
+! align=center| ним
+|-
+| align=center| [[File:Bali Bisah.png|center|50px|link=]]
+| align=center| /h/
+| align=center| Bisah
+|-
+| align=center| [[File:Bali Surang.png|center|50px|link=]]
+| align=center| /r/
+| align=center| Surang
+|-
+| align=center|[[File:Bali Cecek.png|center|50px|link=]]
+| align=center| /ŋ/
+| align=center| Cecek
+|-
+| align=center |[[File:Bali Adeg-Adeg.png|center|50px|link=]]
+| align=center | - 
+| align=center | Adeg-adeg
+|}
+
+{| class="wikitable IPA" align="center"
+|-
+! align=center| шыпас
+! align=center| шуанног
+! align=center| ним
+|-
+| align=center| [[File:Bali G. Ra, Cakra.png|center|50px|link=]]
+| align=center|/ra/
+| align=center| Cakra/Guwung
+|-
+| align=center|[[File:Bali G. Rarepa.png|center|50px|link=]]
+| align=center| /rə/
+| align=center| Guwung macelek
+|-
+| align=center|[[File:Bali G. Wa, Suku-Kembung.png|center|50px|link=]]
+| align=center| /ʋa/
+| align=center| Suku kembung
+|-
+| align=center|[[File:Bali G. Ya, Nania.png|center|50px|link=]]
+| align=center| /ja/
+| align=center| Nania
+|}
+
 
 === Гора пасъяс ===
 
