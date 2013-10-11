@@ -65,33 +65,35 @@
 | ' || - || ʔ
 |}
 
+== Морта нимвежтасъяс ==
+
+{| class="wikitable"
+|-
+| Ме || jIH || Ми || maH 
+|-
+| Тэ || SoH || Ті || tlhIH 
+|-
+| Сійӧ || ghaH, ’oH || Найӧ || chaH, bIH 
+|}
+
 == Лыдакывъяс ==
 
-{| class="wide"
- |pagh
- |wa'
- |cha'
- |wej
- |loS
- |vagh
- |jav
- |Soch
- |chogh
- |Hut
- |wa'maH
- |-
- |0
- |1
- |2
- |3  
- |4  
- |5   
- |6  
- |7   
- |8    
- |9  
- |10    
- |}
+:0 - pagh
+:1 - wa'
+:2 - cha'
+:3 - wej
+:4 - loS
+:5 - vagh
+:6 - jav
+:7 - Soch
+:8 - chorgh
+:9 - Hut
+:10 - wa'maH
+:100 - wa'vatlh
+:1000 - wa'SaD
+:10000 - wa'netlh
+:100000 - wa'bIp
+:1000000 - wa’uy’
 
 == Пример ==
 
