@@ -80,6 +80,49 @@
 |}
 |}
 
+== Морта нимвежтасъяс ==
+
+{| class="wikitable"
+|-
+| Ме || ob || Ми || obs
+|-
+| Тэ || ol || Ті || ols
+|-
+| Сійӧ || om, of, on || Найӧ || oms, ofs, ons
+|}
+
+== Лыдакывъяс ==
+
+:1 - bal
+:2 - tel
+:3 - kil
+:4 - fol
+:5 - lul
+:6 - mäl
+:7 - vel
+:8 - jöl
+:9 - zül
+:10 - deg (bals)
+:11 - degbal (balsebal)
+:20 - teldeg (tels)
+:21 - teldegbal (telsebal)	
+:100 - tum
+:234 - teltumkildegfol
+:1000 - mil
+:2345 - telmil kiltumfoldeglul
+:234567 - teltumkildegfolmil lultumäldegvel
+:1000000 - balion
+
+=== Дрӧбъяс ===
+
+:0,1 - dim
+:0,01 - zim
+:0,001 - mim
+:0,0001 - dimmim
+:0,00001 - zimmim
+:0,000001 - balyim
+:0,123456 = tumteldegkilmil foltumluldegmäl balyim
+
 == Пример ==
 [[Файл:ArieDeJong.png|thumb|150px|Ари де Йонг]]
 
