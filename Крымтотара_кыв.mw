@@ -1,9 +1,9 @@
 [[Файл:Crymean Tatar lang.png|thumb|]]
-'''Крымтотара кыв''' (''qırımtatar tili, къырымтатар тили'') тайӧ тюрк кыв, Крымын каналан кыв.
+'''Крымтотара кыв''' (''qırımtatar tili, къырымтатар тили'') тайӧ тюрк кыв, Крымын каналан кыв [[Украин кыв|украин-]] да [[Роч кыв|рочкӧд]].
 
 == Крымтотара анбур ==
 
-{| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
+{| style="font-family:Arial; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
 | style="width:3em; text-align:center; padding: 3px;" | A a
 | style="width:3em; text-align:center; padding: 3px;" | B b
 | style="width:3em; text-align:center; padding: 3px;" | C c
@@ -41,7 +41,30 @@
 |
 |}
 
-== Морта нимвежтасъяс ==
+== Грамматика ==
+
+=== Эмакыв ===
+
+Эмакывлӧн крымтотара кывйын эм кык лыд; квайт (важӧн сизим) вежлӧг:
+
+{| class="wikitable"
+|-
+! Крымтотара ним, юалӧмъяс !! Вежӧртас, юалӧмъяс !! Пример !! Вуджӧдӧм
+|-
+| '''Baş keliş''' (Kim? Ne?) || '''Нимтан''' (Мый? Коді?) ||  || 
+|-
+| '''Saiplik kelişi''' (Kimniñ? Neniñ?) || '''Асалан''' (Мыйлӧн? Кодлӧн?) ||  || 
+|-
+| '''Tüşüm kelişi''' (Kimni? Neni?) || '''Керан''' (Мыйсӧ? Кодӧс?) ||  || 
+|-
+| '''Doğrultuv kelişi''' (Kimge? Nege? Qayda?) || '''Сетан-Пыран-Матыстчан''' (Мыйлы? Кодлы? Мыйӧ? Кодӧ? Мыйлань? Кодлань? Кытчӧ?) ||  || 
+|-
+| '''Yer kelişi''' (Kimde? Nede? Qayda? Ne yerde?) || '''Ина''' (Мыйын? Кодын? Кӧни?) ||  || 
+|-
+| '''Çıkış kelişi''' (Kimden? Neden? Ne yerden? Kimnen? Nenen?) || '''Босьтан-Петан-Ылыстчан-Ӧтувтан''' (Мыйлысь? Кодлысь? Мыйысь? Кодысь? Мыйсянь? Кодсянь? Кысянь? Мыйкӧд? Кодкӧд?) ||  || 
+|}
+
+=== Морта нимвежтасъяс ===
 
 {| class="wikitable"
 |-
@@ -52,7 +75,7 @@
 | Сійӧ || o || Найӧ || olar 
 |}
 
-== Лыдакывъяс ==
+=== Лыдакывъяс ===
 
 :1 - bir
 :2 - eki
