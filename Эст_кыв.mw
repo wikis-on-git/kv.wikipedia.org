@@ -2,7 +2,7 @@
 
 == Эст анбур ==
 
-{| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
+{| style="font-family:Arial; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
 | style="width:3em; text-align:center; padding: 3px;" | A a
 | style="width:3em; text-align:center; padding: 3px;" | B b
 | style="width:3em; text-align:center; padding: 3px;" | (C c)
@@ -38,6 +38,82 @@
 | style="width:3em; text-align:center; padding: 3px;" | Ü ü
 | style="width:3em; text-align:center; padding: 3px;" | (X x)
 | style="width:3em; text-align:center; padding: 3px;" | (Y y)
+|}
+
+=== Шуанног ===
+
+{| border="1" cellspacing="0" cellpadding="2" class="wikitable"
+|-
+| '''A'''
+| [ɑː]
+| '''B'''
+| [b̥eː]
+| '''C'''
+| [tseː]
+| '''D'''
+| [d̥eː]
+| '''E'''
+| [eː]
+| '''F'''
+| [eff]
+|-
+| '''G'''
+| [ɡ̊eː]
+| '''H'''
+| [hɑː] либӧ [hɑʃ]
+| '''I'''
+| [iː]
+| '''J'''
+| [jotʲː]
+| '''K'''
+| [kɑː]
+| '''L'''
+| [ell]
+|-
+| '''M'''
+| [emm]
+| '''N'''
+| [enn]
+| '''O'''
+| [oː]
+| '''P'''
+| [peː]
+| '''Q'''
+| [kuː]
+| '''R'''
+| [err] либӧ [ærr]
+|-
+| '''S'''
+| [ess]
+| '''Š'''
+| [ʃɑː]
+| '''Z'''
+| [zeː], [seː] либӧ [tsett]
+| '''Ž'''
+| [ʒeː] либӧ [ʃeː]
+| '''T'''
+| [teː]
+| '''U'''
+| [uː]
+|-
+| '''V'''
+| [veː]
+| '''W'''
+| [kɑksisveː]
+| '''Õ'''
+| [ɤː]
+| '''Ä'''
+| [æː]
+| '''Ö'''
+| [øː]
+| '''Ü'''
+| [yː]
+|-
+| '''X'''
+| [iks]
+| '''Y'''
+| [iɡrek] либӧ [ypsilon]
+| colspan="8" |
 |}
 
 == Морта нимвежтасъяс ==
