@@ -302,7 +302,174 @@
 '''лигатураяс:'''
 մ+ն - ﬓ mn, մ+ե - ﬔ me, մ+ի - ﬕ mi, վ+ն - ﬖ vn, մ+խ - ﬗ mx, և ев
 
-== Ыстӧдъяс ==
+== Морта нимвежтасъяс ==
+
+{| class="wikitable"
+|-
+! Коми !! Асыввыв армен !! Рытыввыв армен !! Коми !! Асыввыв армен !! Рытыввыв армен
+|-
+| Ме ||  ես ''yes'' || ես ''yes'' || Ми || մենք ''menk῾'' || մենք ''menk῾''
+|-
+| Тэ || դու ''du'' || դուն ''tun'' || Ті || դուք ''duk῾'' || դուք ''tuk῾''
+|-
+| Сійӧ || նա ''na'' || ան ''an'' || Найӧ || նրանք ''nrank῾'' || անոնք ''anonk῾''
+|}
+
+== Лыдакывъяс ==
+
+{| class="wikitable"
+! rowspan=2 valign=top | Лыд
+! rowspan=2 valign=top | Ним
+! colspan=2 valign=top | Транслитерация
+|-
+!   Асыввыв !! Рытыввыв
+
+|- align="center"
+| 0
+| style="font-size: 170%;" | զրո
+| zeroh
+| zeroh
+
+|- align="center"
+| 1
+| style="font-size: 170%;" | մեկ
+| mek
+| meg
+
+|- align="center"
+| 2
+| style="font-size: 170%;" | երկու
+| yerkoo
+| yergoo
+
+|- align="center"
+| 3
+| style="font-size: 170%;" | երեք
+| yerek
+| yerek
+
+|- align="center"
+| 4
+| style="font-size: 170%;" | չորս
+| chorss
+| chorss
+
+|- align="center"
+| 5
+| style="font-size: 170%;" | հինգ
+| hing
+| hink
+
+|- align="center"
+| 6
+| style="font-size: 170%;" | վեց
+| vets
+| vets
+
+|- align="center"
+| 7
+| style="font-size: 170%;" | յոթ
+| yote
+| yote
+
+|- align="center"
+| 8
+| style="font-size: 170%;" | ութ
+| oot
+| oot
+
+|- align="center"
+| 9
+| style="font-size: 170%;" | ինը
+| eenë
+| eenë
+
+|- align="center"
+| 10
+| style="font-size: 170%;" | տասը
+| tahssë
+| dahssë
+
+|- align="center"
+| 11
+| style="font-size: 170%;" | տասնմեկ
+| tassnehmek
+| dassnemeg
+
+|- align="center"
+| 12
+| style="font-size: 170%;" | տասներկու
+| tassneyerkoo
+| dassneyergoo
+
+|- align="center"
+| 20
+| style="font-size: 170%;" | քսան
+| k'san
+| k'san
+
+|- align="center"
+| 30
+| style="font-size: 170%;" | երեսուն
+| yeressoon
+| yeressoon
+
+|- align="center"
+| 40
+| style="font-size: 170%;" | քառասուն
+| karrassoon
+| karrassoon
+
+|- align="center"
+| 50
+| style="font-size: 170%;" | հիսուն
+| heessoon
+| heessoon
+
+|- align="center"
+| 60
+| style="font-size: 170%;" | վաթսուն
+| vatsoon
+| vatsoon
+
+|- align="center"
+| 70
+| style="font-size: 170%;" | յոթանասուն
+| yotanassoon
+| yotanassoon
+
+|- align="center"
+| 80
+| style="font-size: 170%;" | ութսուն
+| ootsoon
+| ootsoon
+
+|- align="center"
+| 90
+| style="font-size: 170%;" | իննսուն
+| eenasoon
+| een'soon
+
+|- align="center"
+| 100
+| style="font-size: 170%;" | հարյուր
+| haryoor
+| haryoor
+
+|- align="center"
+| 200
+| style="font-size: 170%;" | երկու հարյուր
+| yerkoo hyeroor
+| yergoo hyeroor
+
+|- align="center"
+| 1000
+| style="font-size: 170%;" | հազար
+| hazar
+| hazar
+|}
+
+== Ыстӧгъяс ==
 
 * [http://wals.info/languoid/lect/wals_code_arm The World Atlas of Language Structures Online - Armenian (Eastern)]
 * [http://in-yaz-book.ru/armyan.html Самоучители, учебники и разговорник армянского языка]
