@@ -4,7 +4,107 @@
 
 === Важ тай лы ===
 
+{| class="wikitable"
+|-
+| <big>ᨠ</big> || HIGH KA || <big>ᨷ</big> || BA
+|-
+| <big>ᨡ</big> || HIGH KHA || <big>ᨸ</big> || HIGH PA
+|-
+| <big>ᨢ</big> || HIGH KXA || <big>ᨹ</big> || HIGH PHA
+|-
+| <big>ᨣ</big> || LOW KA || <big>ᨺ</big> || HIGH FA
+|-
+| <big>ᨤ</big> || LOW KXA || <big>ᨻ</big> || LOW PA
+|-
+| <big>ᨥ</big> || LOW KHA || <big>ᨼ</big> || LOW FA
+|-
+| <big>ᨦ</big> || NGA || <big>ᨽ</big> || LOW PHA
+|-
+| <big>ᨧ</big> || HIGH CA || <big>ᨾ</big> || MA
+|-
+| <big>ᨨ</big> || HIGH CHA || <big>ᨿ</big> || LOW YA
+|-
+| <big>ᨩ</big> || LOW CA || <big>ᩀ</big> || HIGH YA
+|-
+| <big>ᨪ</big> || LOW SA || <big>ᩁ</big> || RA
+|-
+| <big>ᨫ</big> || LOW CHA || <big>ᩂ</big> || RUE
+|-
+| <big>ᨬ</big> || NYA || <big>ᩃ</big> || LA
+|-
+| <big>ᨭ</big> || RATA || <big>ᩄ</big> || LUE
+|-
+| <big>ᨮ</big> || HIGH RATHA || <big>ᩅ</big> || WA
+|-
+| <big>ᨯ</big> || DA || <big>ᩆ</big> || HIGH SHA
+|-
+| <big>ᨰ</big> || LOW RATHA || <big>ᩇ</big> || HIGH SSA
+|-
+| <big>ᨱ</big> || RANA || <big>ᩈ</big> || HIGH SA
+|-
+| <big>ᨲ</big> || HIGH TA || <big>ᩉ</big> || HIGH HA
+|-
+| <big>ᨳ</big> || HIGH THA || <big>ᩊ</big> || LLA
+|-
+| <big>ᨴ</big> || LOW TA || <big>ᩋ</big> || A
+|-
+| <big>ᨵ</big> || LOW THA || <big>ᩌ</big> || LOW HA
+|-
+| <big>ᨶ</big> || NA || <big>ᩓ</big> || LAE
+|-
+| <big>ᩔ</big> || GREAT SA ||  || 
+|}
 
+{| class="wikitable"
+|-
+| <big>ᩕ</big> || <big>ᩖ</big> || <big>ᩗ</big> || <big>ᩘ</big> || <big>ᩙ</big> || <big>ᩚ</big> || <big>ᩛ</big> || <big>ᩜ</big> || <big>ᩝ</big> || <big>ᩞ</big>
+|-
+| MEDIAL RA || MEDIAL LA || LA TANG LAI || MAI KANG LAI || FINAL NGA || LOW PA || HIGH RATHA либӧ LOW PA || MA || BA || SA
+|}
+
+{| class="wikitable"
+|-
+| <big>ᩍ</big> || <big>ᩎ</big> || <big>ᩏ</big> || <big>ᩐ</big> || <big>ᩑ</big> || <big>ᩒ</big>
+|-
+| I || II || U || UU || EE || OO
+|}
+
+==== Гора пасъяс ====
+
+{| class="wikitable"
+|-
+| <big>ᩡ</big> || A || <big>ᩫ</big> || O
+|-
+| <big>ᩢ</big> || MAI SAT || <big>ᩬ</big> || OA BELOW
+|-
+| <big>ᩣ</big> || AA || <big>ᩭ</big> || OY
+|-
+| <big>ᩤ</big> || TALL AA || <big>ᩮ</big> || E
+|-
+| <big>ᩥ</big> || I || <big>ᩯ</big> || AE
+|-
+| <big>ᩦ</big> || II || <big>ᩰ</big> || OO
+|-
+| <big>ᩧ</big> || UE || <big>ᩱ</big> || AI
+|-
+| <big>ᩨ</big> || UUE || <big>ᩲ</big> || THAM AI
+|-
+| <big>ᩩ</big> || U || <big>ᩳ</big> || OA ABOVE
+|-
+| <big>ᩪ</big> || UU || <big>ᩴ</big> || MAI KANG
+|}
+
+<big>᩵</big> - тон-1, <big>᩶</big> - тон-2
+
+==== Лыдпасъяс ====
+
+'''Хора:'''
+
+<big>᪀ ᪁ ᪂ ᪃ ᪄ ᪅ ᪆ ᪇ ᪈ ᪉</big>
+
+'''Тхам:'''
+
+<big>᪐ ᪑ ᪒ ᪓ ᪔ ᪕ ᪖ ᪗ ᪘ ᪙</big>
 
 === Выль тай лы ===
 
@@ -87,6 +187,7 @@
 == Ыстӧгъяс ==
 
 * [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=SILDB_home Выль тай лы шрифт]
+* [https://code.google.com/p/noto/source/browse/fonts/individual/unhinted/NotoSansTaiTham-Regular.ttf Важ тай лы шрифт (View raw file)]
 * [http://www.omniglot.com/writing/tailue.htm Omniglot - Tai Lue script]
 
 {{Stub}}
