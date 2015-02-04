@@ -1,5 +1,5 @@
 [[Файл:Sanskrit-Pali Faulmann Gesch T10.jpg|thumb|300px]]
-'''Пали''' (पालि ''Pāḷi'', [paːli]) - тайӧ [[Индия|Индияын]], [[Мьянма|Мъянмаын]], [[Шри-Ланка|Шри-Ланкаын]], [[Непал|Непалын]], [[Камбоджа|Камбоджаын]], [[Лаос|Лаосын]], [[Таиланд|Таиландын]] инд-арий кыв, буддизм эскӧмлӧн вежа кыв. Анбуръяс - [[Санскрит|деванагари]], латин, брахми, [[Сингал кыв|сингал]], [[Таи кыв|таи]], [[Бирма кыв|бирма]], [[Кхмер кыв|кхмер]].
+'''Пали''' (पालि ''Pāḷi'', [paːli]) — тайӧ [[Индия|Индияын]], [[Мьянма|Мъянмаын]], [[Шри-Ланка|Шри-Ланкаын]], [[Непал|Непалын]], [[Камбоджа|Камбоджаын]], [[Лаос|Лаосын]], [[Таиланд|Таиландын]] инд-арий кыв, буддизм эскӧмлӧн вежа кыв. Анбуръяс — [[Санскрит|деванагари]], латин, брахми, [[Сингал кыв|сингал]], [[Таи кыв|таи]], [[Бирма кыв|бирма]], [[Кхмер кыв|кхмер]].
 
 == Латин пали транслитерация ==
 [[Файл:MahamangalaSuthraya.jpg|thumb|300px|Пали гижӧд сингал анбурӧн]]
@@ -7,7 +7,72 @@
 
 <big>a ā i ī u ū e o ṃ k kh g gh ṅ c ch j jh ñ ṭ ṭh ḍ ḍh ṇ t th d dh n p ph b bh m y r l ḷ v s h</big>
 
-== Ыстӧдъяс ==
+== Брахми анбур ==
+
+{| class="wikitable"
+|-
+| <big>𑀅</big> || A || <big>𑀕</big> || GA || <big>𑀥</big> || DHA
+|-
+| <big>𑀆</big> || AA || <big>𑀖</big> || GHA || <big>𑀦</big> || NA
+|-
+| <big>𑀇</big> || I || <big>𑀗</big> || NGA || <big>𑀧</big> || PA
+|-
+| <big>𑀈</big> || II || <big>𑀘</big> || CA || <big>𑀨</big> || PHA
+|-
+| <big>𑀉</big> || U || <big>𑀙</big> || CHA || <big>𑀩</big> || BA
+|-
+| <big>𑀊</big> || UU || <big>𑀚</big> || JA || <big>𑀪</big> || BHA
+|-
+| <big>𑀋</big> || VOCALIC R || <big>𑀛</big> || JHA || <big>𑀫</big> || MA
+|-
+| <big>𑀌</big> || VOCALIC RR || <big>𑀜</big> || NYA || <big>𑀬</big> || YA
+|-
+| <big>𑀍</big> || VOCALIC L || <big>𑀝</big> || TTA || <big>𑀭</big> || RA
+|-
+| <big>𑀎</big> || VOCALIC LL || <big>𑀞</big> || TTHA || <big>𑀮</big> || LA
+|-
+| <big>𑀏</big> || E || <big>𑀟</big> || DDA || <big>𑀯</big> || VA
+|-
+| <big>𑀐</big> || AI || <big>𑀠</big> || DDHA || <big>𑀰</big> || SHA
+|-
+| <big>𑀑</big> || O || <big>𑀡</big> || NNA || <big>𑀱</big> || SSA
+|-
+| <big>𑀒</big> || AU || <big>𑀢</big> || TA || <big>𑀲</big> || SA
+|-
+| <big>𑀓</big> || KA || <big>𑀣</big> || THA || <big>𑀳</big> || HA
+|-
+| <big>𑀔</big> || KHA || <big>𑀤</big> || DA || <big>𑀴</big> || LLA
+|}
+
+=== Гора пасъяс (KA шыпас дорын) ===
+
+{| class="wikitable"
+|-
+| <big>𑀓𑀸</big> || kaa || <big>𑀓𑁀</big> || kl
+|-
+| <big>𑀓𑀺</big> || ki || <big>𑀓𑁁</big> || kll
+|-
+| <big>𑀓𑀻</big> || kii || <big>𑀓𑁂</big> || ke
+|-
+| <big>𑀓𑀼</big> || ku || <big>𑀓𑁃</big> || kai
+|-
+| <big>𑀓𑀽</big> || kuu || <big>𑀓𑁄</big> || ko
+|-
+| <big>𑀓𑀾</big> || kr || <big>𑀓𑁅</big> || kau
+|-
+| <big>𑀓𑀿</big> || krr || <big>𑀓𑁆</big> || k
+|}
+
+=== Мӧд пасъяс ===
+
+{| class="wikitable"
+|-
+| <big>𑀀</big> || <big>𑀁</big> || <big>𑀂</big> || <big>𑀃</big> || <big>𑀄</big>
+|-
+| CANDRABINDU || ANUSVARA || VISARGA || JIHVAMULIYA || UPADHMANIYA
+|}
+
+== Ыстӧгъяс ==
 
 * [http://dhamma.ru/paali/new_pali/new_pali.odt Новый курс по чтению пáли]
 * [http://dhamma.ru/paali/index.html Всё для изучения языка пали и перевода палийского канона].
