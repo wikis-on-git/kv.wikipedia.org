@@ -5,45 +5,208 @@
 
 == Кашуб анбур ==
 
-{| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
-| style="width:3em; text-align:center; padding: 3px;" | A a
-| style="width:3em; text-align:center; padding: 3px;" | Ą ą
-| style="width:3em; text-align:center; padding: 3px;" | Ã ã
-| style="width:3em; text-align:center; padding: 3px;" | B b
-| style="width:3em; text-align:center; padding: 3px;" | C c
-| style="width:3em; text-align:center; padding: 3px;" | D d
-| style="width:3em; text-align:center; padding: 3px;" | E e
-| style="width:3em; text-align:center; padding: 3px;" | É é
+{| class="wikitable" width="60%"
+! Ыджыд шыпас !! Ичӧт шыпас !! Ним !! Шуанног
 |-
-| style="width:3em; text-align:center; padding: 3px;" | Ë ë
-| style="width:3em; text-align:center; padding: 3px;" | F f
-| style="width:3em; text-align:center; padding: 3px;" | G g
-| style="width:3em; text-align:center; padding: 3px;" | H h
-| style="width:3em; text-align:center; padding: 3px;" | I i
-| style="width:3em; text-align:center; padding: 3px;" | J j
-| style="width:3em; text-align:center; padding: 3px;" | K k
-| style="width:3em; text-align:center; padding: 3px;" | L l
+! A
+| a
+| a
+| [a]
 |-
-| style="width:3em; text-align:center; padding: 3px;" | Ł ł
-| style="width:3em; text-align:center; padding: 3px;" | M m
-| style="width:3em; text-align:center; padding: 3px;" | N n
-| style="width:3em; text-align:center; padding: 3px;" | Ń ń
-| style="width:3em; text-align:center; padding: 3px;" | O o
-| style="width:3em; text-align:center; padding: 3px;" | Ò ò
-| style="width:3em; text-align:center; padding: 3px;" | Ó ó
-| style="width:3em; text-align:center; padding: 3px;" | Ô ô
+! Ą
+| ą
+| ą
+| [õ], [ũ]
 |-
-| style="width:3em; text-align:center; padding: 3px;" | P p
-| style="width:3em; text-align:center; padding: 3px;" | R r
-| style="width:3em; text-align:center; padding: 3px;" | S s
-| style="width:3em; text-align:center; padding: 3px;" | T t
-| style="width:3em; text-align:center; padding: 3px;" | U u
-| style="width:3em; text-align:center; padding: 3px;" | Ù ù
-| style="width:3em; text-align:center; padding: 3px;" | W w
-| style="width:3em; text-align:center; padding: 3px;" | Y y
+! Ã
+| ã
+| ã
+| [ã], [ɛ̃]
 |-
-| style="width:3em; text-align:center; padding: 3px;" | Z z
-| style="width:3em; text-align:center; padding: 3px;" | Ż ż
+! B
+| b
+| bé
+| [b]
+|-
+! C
+| c
+| cé
+| [ts]
+|-
+! D
+| d
+| dé
+| [d]
+|-
+! E
+| e
+| e
+| [ɛ]
+|-
+! É
+| é
+| é
+| [e], [ɨj], [i], [ɨ]
+|-
+! Ë
+| ë 
+| szwa
+| [ə]
+|-
+! F
+| f
+| éf
+| [f]
+|-
+! G
+| g
+| gé
+| [ɡ]
+|-
+! H
+| h
+| ha
+| [x]
+|-
+! I
+| I
+| i
+| [i]
+|-
+! J
+| j
+| jot
+| [j]
+|-
+! K
+| k
+| ka
+| [k]
+|-
+! L
+| l
+| él
+| [l]
+|-
+! Ł
+| ł 
+| éł
+| [w]
+|-
+! M
+| m
+| ém
+| [m]
+|-
+! N
+| n
+| én
+| [n]
+|-
+! Ń
+| ń 
+| éń 
+| [ɲ], [n]
+|-
+! O
+| o
+| o
+| [ɔ]
+|-
+! Ò
+| ò 
+| ò
+| [wɛ]
+|-
+! Ó
+| ó 
+| ó
+| [o], [u]
+|-
+! Ô
+| ô
+| ô
+| [ɞ], [ɛ], [ɔ], [o], [u]
+|-
+! P
+| p
+| pé
+| [p]
+|-
+! R
+| r
+| ér
+| [r]
+|-
+! S 
+| s
+| és
+| [s]
+|-
+! T
+| t
+| té
+| [t]
+|-
+! U
+| u
+| u
+| [u]
+|-
+! Ù
+| ù
+| ù
+| [wu]
+|-
+! W 
+| w
+| wé
+| [v]
+|-
+! Y
+| y
+| igrek
+| [i]
+|-
+! Z
+| z
+| zet
+| [z]
+|-
+! Ż
+| ż 
+| żet
+| [ʒ]
+|}
+
+=== Диграфъяс ===
+
+{| class="wikitable"
+! Ыджыд шыпас !! Ичӧт шыпас !! Шуанног
+|-
+! CH
+| ch
+| [x]
+|-
+! CZ
+| cz
+| [tʃ]
+|-
+! DZ
+| dz 
+| [dz]
+|-
+! DŻ
+| dż 
+| [dʒ]
+|-
+! RZ
+| rz
+| [ʐ]
+|-
+! SZ
+| sz
+| [ʃ]
 |}
 
 == Кашубӧн кывбур ==
