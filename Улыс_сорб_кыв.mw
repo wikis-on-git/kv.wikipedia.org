@@ -3,64 +3,170 @@
 
 == Улыс сорб анбур ==
 
-{| class="standard" style="text-align:center;"
+{|  border="1" cellspacing="0" cellpadding="3"
+!colspan=1 bgcolor="#FFDEAD" align="center" | Шыпас
+!colspan=1 bgcolor="#FFDEAD" align="center" | Ним
+!colspan=1 bgcolor="#FFDEAD" align="center" | Шуанног
 |-
-!colspan="2"|шыпас
-!ним
-!colspan="2"|шыпас
-!ним
-!colspan="2"|шыпас
-!ним
-|- 
-| A || a || a 
-| CH || ch || cha 
-| Ŕ || ŕ || eŕ, veke eŕ 
-|- 
-| B || b || bej 
-| I || i || i 
-| S || s || es 
+| valign="middle" align="center"| '''A a'''
+| valign="middle" align="center"| a
+| valign="middle" align="center"| [ä]
 |-
-| C || c || cej 
-| J || j || jot  
-| Š || š || eš  
-|- 
-| Č || č || čej
-| K || k || ka 
-| Ś || ś || śej
-|- 
-| Ć|| ć || ćej
-| Ł || ł || eł  
-| T  || t || tej 
-|- 
-| D || d || dej 
-| L || l || el 
-| U || u || u  
+| valign="middle" align="center"| '''B b'''
+| valign="middle" align="center"| bej
+| valign="middle" align="center"| [b]
 |-
-| DŹ|| dź || dźej 
-| M || m || em 
-| W  || w || wej  
-|- 
-| E || e || e 
-| N || n || en 
-| Y || y || y 
-|- 
-| Ĕ|| ĕ || jet, ĕt 
-| Ń|| ń || eń 
-| Z || z || zet 
-|- 
-| F || f || ef 
-| O || o || o 
-| Ž || ž || žet 
-|- 
-| G || g || gej 
-| P || p || pej 
-| Ź || ź || źej 
+| valign="middle" align="center"| '''C c'''
+| valign="middle" align="center"| cej
+| valign="middle" align="center"| [ʦ]
 |-
-| H || h || ha  
-| R || r || er 
-|  || ||
+| valign="middle" align="center"| '''Č č'''
+| valign="middle" align="center"| čej
+| valign="middle" align="center"| [ʧ]
+|-
+| valign="middle" align="center"| '''Ć ć'''
+| valign="middle" align="center"| ćet
+| valign="middle" align="center"| [ʧ]
+|-
+| valign="middle" align="center"| '''D d'''
+| valign="middle" align="center"| dej
+| valign="middle" align="center"| [d]
+|-
+| valign="middle" align="center"| '''Dź dź'''
+| valign="middle" align="center"| dźet
+| valign="middle" align="center"| [ʤ]
+|-
+| valign="middle" align="center"| '''E e'''
+| valign="middle" align="center"| ej
+| valign="middle" align="center"| [ɛ]
+|-
+| valign="middle" align="center"| '''Ě ě'''
+| valign="middle" align="center"| ět
+| valign="middle" align="center"| [e], [ɛ], [ej], [iɪ]
+|-
+| valign="middle" align="center"| '''F f'''
+| valign="middle" align="center"| ef
+| valign="middle" align="center"| [f]
+|-
+| valign="middle" align="center"| '''G g'''
+| valign="middle" align="center"| gej
+| valign="middle" align="center"| [g]
+|-
+| valign="middle" align="center"| '''H h'''
+| valign="middle" align="center"| ha
+| valign="middle" align="center"| [ɦ] 
+|-
+| valign="middle" align="center"| '''Ch ch'''
+| valign="middle" align="center"| cha
+|valign="middle" align="center"| [x], [kʰ], [k]
+|-
+| valign="middle" align="center"| '''I i'''
+| valign="middle" align="center"| i
+| valign="middle" align="center"| [i]
+|-
+| valign="middle" align="center"| '''J j'''
+| valign="middle" align="center"| jot
+| valign="middle" align="center"| [j]
+|-
+| valign="middle" align="center"| '''K k'''
+| valign="middle" align="center"| ka
+| valign="middle" align="center"| [k]
+|-
+| valign="middle" align="center"| '''Ł ł'''
+| valign="middle" align="center"| eł
+| valign="middle" align="center"| [w]
+|-
+| valign="middle" align="center"| '''L l'''
+| valign="middle" align="center"| el
+| valign="middle" align="center"| [l]
+|-
+| valign="middle" align="center"| '''M m'''
+| valign="middle" align="center"| em
+| valign="middle" align="center"| [m]
+|-
+| valign="middle" align="center"| '''N n'''
+| valign="middle" align="center"| en
+| valign="middle" align="center"| [n]
+|-
+| valign="middle" align="center"| '''Ń ń'''
+| valign="middle" align="center"| ejn
+| valign="middle" align="center"| [nʲ]
+|-
+| valign="middle" align="center"| '''O o'''
+| valign="middle" align="center"| o
+| valign="middle" align="center"| [ɔ]
+|-
+| valign="middle" align="center"| '''Ó ó'''
+| valign="middle" align="center"| ót
+| valign="middle" align="center"| [o]
+|-
+| valign="middle" align="center"| '''P p'''
+| valign="middle" align="center"| pej
+| valign="middle" align="center"| [p]
 |- 
+| valign="middle" align="center"| '''Q q'''
+| valign="middle" align="center"|
+| valign="middle" align="center"|
+|-
+| valign="middle" align="center"| '''R r'''
+| valign="middle" align="center"| er
+| valign="middle" align="center"| [r], [ʀ]
+|-
+| valign="middle" align="center"| '''Ŕ ŕ'''
+| valign="middle" align="center"| ejŕ
+| valign="middle" align="center"| [rʲ]
+|-
+| valign="middle" align="center"| '''S s'''
+| valign="middle" align="center"| es
+| valign="middle" align="center"| [s]
+|-
+| valign="middle" align="center"| '''Š š'''
+| valign="middle" align="center"| eš
+| valign="middle" align="center"| [ʃ]
+|-
+| valign="middle" align="center"| '''Ś ś'''
+| valign="middle" align="center"| śej
+| valign="middle" align="center"| [ɕ]
+|-
+| valign="middle" align="center"| '''T t'''
+| valign="middle" align="center"| tej
+| valign="middle" align="center"| [t]
+|-
+| valign="middle" align="center"| '''U u'''
+| valign="middle" align="center"| u
+| valign="middle" align="center"| [u]
+|-
+| valign="middle" align="center"| '''V v'''
+| valign="middle" align="center"|
+| valign="middle" align="center"|
+|-
+| valign="middle" align="center"| '''W w'''
+| valign="middle" align="center"| wej
+| valign="middle" align="center"| [w], [v]
+|-
+| valign="middle" align="center"| '''X x'''
+| valign="middle" align="center"|
+| valign="middle" align="center"|
+|-
+| valign="middle" align="center"| '''Y y'''
+| valign="middle" align="center"| y
+| valign="middle" align="center"| [ɨ]
+|-
+| valign="middle" align="center"| '''Z z'''
+| valign="middle" align="center"| zet
+| valign="middle" align="center"| [z]
+|-
+| valign="middle" align="center"| '''Ž ž'''
+| valign="middle" align="center"| žet
+| valign="middle" align="center"| [ʒ]
+|-
+| valign="middle" align="center"| '''Ź ź'''
+| valign="middle" align="center"| źej
+| valign="middle" align="center"| [ʑ]
 |}
+
+Важӧн сидзжӧ'''b́, ṕ, ḿ, ẃ''' (ӧні '''bj, mj, pj, wj''')
+
 [[Файл:Cottbus zweisprachige Strassenbezeichnung zugeschnitten.jpg|thumb]]
 
 == Улыс сорбӧн кывбур ==
