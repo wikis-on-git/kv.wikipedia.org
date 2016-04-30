@@ -1,47 +1,223 @@
 [[Файл:Idioma polaco.PNG|thumb|200px|]]
-'''Польша кыв''' (''język polski, polszczyzna'') — тайӧ славян кыв, [[Польша|Польшаын]] каналан кыв.
+'''Поляк кыв''' (''język polski, polszczyzna'') — тайӧ славян кыв, [[Польша|Польшаын]] каналан кыв.
 
-== Польша анбур ==
+== Поляк анбур ==
 
-{| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
-| style="width:3em; text-align:center; padding: 3px;" | A a
-| style="width:3em; text-align:center; padding: 3px;" | ą
-| style="width:3em; text-align:center; padding: 3px;" | B b
-| style="width:3em; text-align:center; padding: 3px;" | C c
-| style="width:3em; text-align:center; padding: 3px;" | Ć ć
-| style="width:3em; text-align:center; padding: 3px;" | D d
-| style="width:3em; text-align:center; padding: 3px;" | E e
-| style="width:3em; text-align:center; padding: 3px;" | ę
+{| class="wikitable"
 |-
-| style="width:3em; text-align:center; padding: 3px;" | F f
-| style="width:3em; text-align:center; padding: 3px;" | G g
-| style="width:3em; text-align:center; padding: 3px;" | H h
-| style="width:3em; text-align:center; padding: 3px;" | I i
-| style="width:3em; text-align:center; padding: 3px;" | J j
-| style="width:3em; text-align:center; padding: 3px;" | K k
-| style="width:3em; text-align:center; padding: 3px;" | L l
-| style="width:3em; text-align:center; padding: 3px;" | Ł ł
+!Ыджыд шыпас
+!Ичӧт шыпас
+!Ним
+!Шуанног
 |-
-| style="width:3em; text-align:center; padding: 3px;" | M m
-| style="width:3em; text-align:center; padding: 3px;" | N n
-| style="width:3em; text-align:center; padding: 3px;" | Ń ń
-| style="width:3em; text-align:center; padding: 3px;" | O o
-| style="width:3em; text-align:center; padding: 3px;" | Ó ó
-| style="width:3em; text-align:center; padding: 3px;" | P p
-| style="width:3em; text-align:center; padding: 3px;" | R r
-| style="width:3em; text-align:center; padding: 3px;" | S s
+|'''A'''
+|'''a'''
+|''a''
+| [ä], [a]
 |-
-| style="width:3em; text-align:center; padding: 3px;" | Ś ś
-| style="width:3em; text-align:center; padding: 3px;" | T t
-| style="width:3em; text-align:center; padding: 3px;" | U u
-| style="width:3em; text-align:center; padding: 3px;" | W w
-| style="width:3em; text-align:center; padding: 3px;" | y
-| style="width:3em; text-align:center; padding: 3px;" | Z z
-| style="width:3em; text-align:center; padding: 3px;" | Ź ź
-| style="width:3em; text-align:center; padding: 3px;" | Ż ż
+|'''Ą'''
+|'''ą'''
+|''ą''
+| [ɔ̃], [ɔn], [ɔŋ], [ɔm], [ɔ]
+|-
+|'''B'''
+|'''b'''
+|''be''
+| [b]
+|-
+|'''C'''
+|'''c'''
+|''ce''
+| [t̪͡s̪]
+|-
+|'''Ć'''
+|'''ć'''
+|''cie''
+| [t͡ɕ]
+|-
+|'''D'''
+|'''d'''
+|''de''
+| [d̪], [d̺]
+|-
+|'''E'''
+|'''e'''
+|''e''
+| [ɛ], [e]
+|-
+|'''Ę'''
+|'''ę'''
+|''ę''
+| [ɛ̃], [ɛn], [ɛŋ], [ɛm], [ɛ]
+|-
+|'''F'''
+|'''f'''
+|''ef''
+| [f]
+|-
+|'''G'''
+|'''g'''
+|''gie''
+| [ɡ]
+|-
+|'''H'''
+|'''h'''
+|''ha'', ''samo h''
+| [x], [ɦ]
+|-
+|'''I'''
+|'''i'''
+|''i''
+| [i], [j]
+|-
+|'''J'''
+|'''j'''
+|''jot''
+| [j]
+|-
+|'''K'''
+|'''k'''
+|''ka''
+| [k]
+|-
+|'''L'''
+|'''l'''
+|''el''
+| [l], [lʲ]
+|-
+|'''Ł'''
+|'''ł'''
+|''eł''
+| [w], [ɫ̪]
+|-
+|'''M'''
+|'''m'''
+|''em''
+| [m], [ɱ]
+|-
+|'''N'''
+|'''n'''
+|''en''
+| [n], [n̺], [ŋ]
+|-
+|'''Ń'''
+|'''ń'''
+|''eń''
+| [ɲ], [j̃]
+|-
+|'''O'''
+|'''o'''
+|''o''
+| [ɔ], [o]
+|-
+|'''Ó'''
+|'''ó'''
+|''ó'', ''o z kreską'', ''u zamknięte''
+| [u], [ʉ]
+|-
+|'''P'''
+|'''p'''
+|''pe''
+| [p]
+|-
+|'''Q'''
+|'''q'''
+|''ku''
+| [k]
+|-
+|'''R'''
+|'''r'''
+|''er''
+| [r], [ɾ]
+|-
+|'''S'''
+|'''s'''
+|''es''
+| [s̪]
+|-
+|'''Ś'''
+|'''ś'''
+|''eś''
+| [ɕ]
+|-
+|'''T'''
+|'''t'''
+|''te''
+| [t̪], [t̺]
+|-
+|'''U'''
+|'''u'''
+|''u'', ''u otwarte''
+| [u], [ʉ], [w]
+|-
+|'''V'''
+|'''v'''
+|''fau''
+| [v]
+|-
+|'''W'''
+|'''w'''
+|''wu''
+| [v]
+|-
+|'''X'''
+|'''x'''
+|''iks''
+| [ks]
+|-
+|'''Y'''
+|'''y'''
+|''y'', ''igrek''
+| [ɘ̟]
+|-
+|'''Z'''
+|'''z'''
+|''zet''
+| [z̪]
+|-
+|'''Ź'''
+|'''ź'''
+|''ziet''
+| [ʑ]
+|-
+|'''Ż'''
+|'''ż'''
+|''żet'', ''żet z kropką''
+| [ʐ]
 |}
 
-== Польшаӧн кывбур ==
+'''Q, V, X''' гижӧны сӧмын пыртӧм кывъясын.
+
+=== Диграфъяс ===
+
+{| class="wikitable"
+|-
+!Диграф
+!Шуанног
+|-
+|'''ch'''
+| [x]
+|-
+|'''cz'''
+| [t͡ʂ]
+|-
+|'''dz'''
+| [d͡z]
+|-
+|'''dź'''
+| [d͡ʑ]
+|-
+|'''dż'''
+| [d͡ʐ]
+|-
+|'''rz'''
+| [ʐ]
+|-
+|'''sz'''
+| [ʂ]
+|}
+
+== Полякӧн кывбур ==
 
 <table class = "wikitable" width="300">
 <tr>
