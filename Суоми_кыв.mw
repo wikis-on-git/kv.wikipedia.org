@@ -98,6 +98,35 @@
 
 Эмакывлӧн суоми кывйын эм кык лыд: ӧтка лыд (''Yksikkö'') да уна лыд (''Monikko''); дас кык вежлӧг:
 
+{| class="wikitable"
+|-
+! Вежлӧг !! Ӧтка лыд !! Вуджӧдӧм !! Уна лыд !! Вуджӧдӧм
+|-
+| '''Nominatiivi (Nimentö)'''<br /> ''Нимтан'' || maa || ''му'' || maat || ''муяс''
+|-
+| '''Genitiivi (Omanto)'''<br /> ''Асалан'' || maan || ''мулӧн'' || maiden || ''муяслӧн''
+|-
+| '''Partitiivi (Osanto)'''<br /> ''Юкан'' || maata || ''(кымын) муӧс'' || maita || ''(кымын) муясӧс''
+|-
+| '''Illatiivi (Sisätulento)'''<br /> ''Пыран'' || maahan || ''муӧ'' || maihin || ''муясӧ''
+|-
+| '''Inessiivi (Sisäolento)'''<br /> ''Ина'' || maassa || ''муын'' || maissa || ''муясын''
+|-
+| '''Elatiivi (Sisäeronto)'''<br /> ''Петан'' || maasta || ''муысь'' || maistä || ''муясысь''
+|-
+| '''Allatiivi (Ulkotulento)'''<br /> ''Сетан/Матыстчан'' || maalle || ''мулы, му вылӧ'' || maille || ''муяслы, муяс вылӧ''
+|-
+| '''Adessiivi (Ulko-olento)'''<br /> ''Ортсы-ина/Керанторъя'' || maalla || ''му вылын'' || maillä || ''муяс вылын''
+|-
+| '''Ablatiivi (Ulkoeronto)'''<br /> ''Ылыстчан'' || maalta || ''му вылысь'' || mailta || ''муяс вылысь''
+|-
+| '''Translatiivi (Tulento)'''<br /> ''Пӧртан'' || maaksi || ''муӧ (пӧрны)'' || maiksi || ''муясӧ (пӧрны)''
+|-
+| '''Essiivi (Olento)'''<br /> ''Эма/Керанторъя'' || maana || ''муӧн (лоны)'' || maina || ''муясӧн (лоны)''
+|-
+| '''Abessiivi (Vajanto)'''<br /> ''Торйӧдан'' || maatta || ''мутӧг'' || maitta || ''муястӧг''
+|}
+
 === Индан-асалан суффиксъяс ===
 
 {| class="wikitable"
