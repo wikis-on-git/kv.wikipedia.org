@@ -76,40 +76,73 @@
 === Ӧнія латин ===
 
 {| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
-| style="width:3em; text-align:center; padding: 3px;" | A a
-| style="width:3em; text-align:center; padding: 3px;" | B b
-| style="width:3em; text-align:center; padding: 3px;" | C c
-| style="width:3em; text-align:center; padding: 3px;" | D d
-| style="width:3em; text-align:center; padding: 3px;" | E e
-| style="width:3em; text-align:center; padding: 3px;" | F f
+| style="width:3em; text-align:center; padding: 3px;" | [[A|A a]]
+| style="width:3em; text-align:center; padding: 3px;" | [[B|B b]]
+| style="width:3em; text-align:center; padding: 3px;" | [[C|C c]]
+| style="width:3em; text-align:center; padding: 3px;" | [[D|D d]]
+| style="width:3em; text-align:center; padding: 3px;" | [[E|E e]]
+| style="width:3em; text-align:center; padding: 3px;" | [[F|F f]]
 |-
-| style="width:3em; text-align:center; padding: 3px;" | G g
-| style="width:3em; text-align:center; padding: 3px;" | H h
-| style="width:3em; text-align:center; padding: 3px;" | I i
-| style="width:3em; text-align:center; padding: 3px;" | J j
-| style="width:3em; text-align:center; padding: 3px;" | K k
-| style="width:3em; text-align:center; padding: 3px;" | L l
+| style="width:3em; text-align:center; padding: 3px;" | [[G|G g]]
+| style="width:3em; text-align:center; padding: 3px;" | [[H|H h]]
+| style="width:3em; text-align:center; padding: 3px;" | [[I|I i]]
+| style="width:3em; text-align:center; padding: 3px;" | [[J|J j]]
+| style="width:3em; text-align:center; padding: 3px;" | [[K|K k]]
+| style="width:3em; text-align:center; padding: 3px;" | [[L|L l]]
 |-
-| style="width:3em; text-align:center; padding: 3px;" | M m
-| style="width:3em; text-align:center; padding: 3px;" | N n
-| style="width:3em; text-align:center; padding: 3px;" | O o
-| style="width:3em; text-align:center; padding: 3px;" | P p
-| style="width:3em; text-align:center; padding: 3px;" | R r
-| style="width:3em; text-align:center; padding: 3px;" | S s
+| style="width:3em; text-align:center; padding: 3px;" | [[M|M m]]
+| style="width:3em; text-align:center; padding: 3px;" | [[N|N n]]
+| style="width:3em; text-align:center; padding: 3px;" | [[O|O o]]
+| style="width:3em; text-align:center; padding: 3px;" | [[P|P p]]
+| style="width:3em; text-align:center; padding: 3px;" | [[R|R r]]
+| style="width:3em; text-align:center; padding: 3px;" | [[S|S s]]
 |-
-| style="width:3em; text-align:center; padding: 3px;" | Š š
-| style="width:3em; text-align:center; padding: 3px;" | T t
-| style="width:3em; text-align:center; padding: 3px;" | U u
-| style="width:3em; text-align:center; padding: 3px;" | V v
-| style="width:3em; text-align:center; padding: 3px;" | Y y
-| style="width:3em; text-align:center; padding: 3px;" | Z z
+| style="width:3em; text-align:center; padding: 3px;" | [[Š|Š š]]
+| style="width:3em; text-align:center; padding: 3px;" | [[T|T t]]
+| style="width:3em; text-align:center; padding: 3px;" | [[U|U u]]
+| style="width:3em; text-align:center; padding: 3px;" | [[V|V v]]
+| style="width:3em; text-align:center; padding: 3px;" | [[Y|Y y]]
+| style="width:3em; text-align:center; padding: 3px;" | [[Z|Z z]]
 |-
-| style="width:3em; text-align:center; padding: 3px;" | Ž ž
-| style="width:3em; text-align:center; padding: 3px;" | Ä ä
-| style="width:3em; text-align:center; padding: 3px;" | Ö ö
+| style="width:3em; text-align:center; padding: 3px;" | [[Ž|Ž ž]]
+| style="width:3em; text-align:center; padding: 3px;" | [[Ä|Ä ä]]
+| style="width:3em; text-align:center; padding: 3px;" | [[Ö|Ö ö]]
 |}
 
-== Морта нимвежтасъяс ==
+== Грамматика ==
+
+=== Эмакыв ===
+
+Эмакывлӧн ижора кывйын эм кык лыд: ӧтка лыд (''Yksikkö'') да уна лыд (''Monikko''); дас ӧти вежлӧг:
+
+{| class="wikitable"
+|-
+! Вежлӧг !! Ӧтка лыд !! Вуджӧдӧм !! Уна лыд !! Вуджӧдӧм
+|-
+| '''Nominatiivi'''<br /> ''Нимтан'' || maa || ''му'' || maat || ''муяс''
+|-
+| '''Genetiivi'''<br /> ''Асалан'' || maan || ''мулӧн'' || maijjen || ''муяслӧн''
+|-
+| '''Partitiivi'''<br /> ''Юксян'' || maata || ''(кымын) муӧс'' || maita || ''(кымын) муясӧс''
+|-
+| '''Illatiivi'''<br /> ''Пыран'' || maaha || ''муӧ'' || maihe || ''муясӧ''
+|-
+| '''Inessiivi'''<br /> ''Ина'' || maaz || ''муын'' || maiz || ''муясын''
+|-
+| '''Elatiivi'''<br /> ''Петан'' || maast || ''муысь'' || maist || ''муясысь''
+|-
+| '''Allatiivi'''<br /> ''Сетан/Матыстчан'' || maalle || ''мулы, му вылӧ'' || maille || ''муяслы, муяс вылӧ''
+|-
+| '''Adessiivi'''<br /> ''Ортсы-ина/Керанторъя'' || maal || ''му вылын'' || mail || ''муяс вылын''
+|-
+| '''Ablatiivi'''<br /> ''Ылыстчан'' || maalt || ''му вылысь'' || mailt || ''муяс вылысь''
+|-
+| '''Translatiivi'''<br /> ''Пӧртан'' || maaks || ''муӧ (пӧрны)'' || maiks || ''муясӧ (пӧрны)''
+|-
+| '''Essiivi'''<br /> ''Эма/Керанторъя'' || maan || ''муӧн (лоны)'' || main || ''муясӧн (лоны)''
+|}
+
+=== Морта нимвежтасъяс ===
 
 {| class="wikitable"
 |-
@@ -120,7 +153,7 @@
 | Сійӧ || hää (ловъя), se (ловтӧм) || Найӧ || höö (ловъя), neet (ловтӧм) 
 |}
 
-== Лыдакывъяс ==
+=== Лыдакывъяс ===
 
 :1 - yks
 :2 - kaks
