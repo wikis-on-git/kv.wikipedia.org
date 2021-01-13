@@ -6,15 +6,15 @@
 
 {| border=1 cellspacing=0 cellpadding=2 style="border: 1px solid #999; border-collapse: collapse;" class="Unicode"
 |- valign=bottom style="background: #f0f0f0;"
-! align=left | шыпас
-! align=left | Юникод
-! align=left | ним
+! align=center | шыпас
+! align=center | Юникод
+! align=center | ним
 (кирилл)
-! align=left | ним
-! align=left | транслитерация
-! align=left | шуанног
-! align=left | лоӧм
-! align=left | лыд
+! align=center | ним
+! align=center | транслитерация
+! align=center | шуанног
+! align=center | лоӧм
+! align=center | лыд
 |-
 | style="background: white;" | [[Файл:Early Cyrillic letter Azu.png]]
 | А а
@@ -238,7 +238,7 @@
 | [t͡ɕi]
 | c
 | [t͡ɕ]
-| эфиоп ሃ, еврей צ, [[Копт кыв|копт]] ϥ
+| еврей צ
 | 900
 |-
 | style="background: white;" | [[Файл:Early Cyrillic letter Chrivi.png]]
@@ -256,7 +256,7 @@
 | [ʆa]
 | š, sh
 | [ʆ]
-| эфиоп ሠ, еврей ש, копт ϣ
+| [[Амхара кыв|эфиоп]] ሠ, еврей ש, [[Копт кыв|копт]] ϣ
 |
 |-
 | style="background: white;" | [[Файл:Early Cyrillic letter Shta.png]]
@@ -306,7 +306,7 @@
 |-
 | style="background: white;" | [[Файл:Early Cyrillic letter Yu.png]]
 | Ю ю
-| {{Script/Slavonic|ю, ѹкъ}}
+| {{Script/Slavonic|ю}}
 | [ju]
 | ju
 | ju
@@ -423,7 +423,7 @@
 |-
 | style="background: white;" | [[Файл:Early Cyrillic letter Koppa.png]]
 | Ҁ ҁ
-| {{Script/Slavonic|ко́ппа}}
+| {{Script/Slavonic|коппа}}
 |
 |
 |
@@ -512,7 +512,7 @@
 | 30
 |-
 |style="font-size: 150%"| Ⰽ
-| [[Файл:Glagolitic kako.svg|33px|Kako]]
+| [[Файл:Glagolitic kako.svg|25px|Kako]]
 | Како
 | 40
 |-
@@ -567,7 +567,7 @@
 | 400
 |-
 |style="font-size: 150%"| Ⱇ
-| [[Файл:Glagolitic fert.svg|32px|Fritu]] [[Файл:GlagolitsaFert.gif]]
+| [[Файл:Glagolitic fert.svg|25px|Fritu]], [[Файл:GlagolitsaFert.gif]]
 | Ферт
 | 500
 |-
@@ -577,7 +577,7 @@
 | 600
 |-
 |style="font-size: 150%"| Ⱉ
-| [[Файл:Glagolitic ot.svg|33px|Otu]] [[Файл:GlagolitsaOht.gif]]
+| [[Файл:Glagolitic ot.svg|33px|Otu]], [[Файл:GlagolitsaOht.gif]]
 | От
 | 700
 |-
@@ -665,7 +665,6 @@
 | [[Файл:Glagolitic fita.svg|30px|Thita]]
 | Фита
 | —
-|
 |}
 
 == Морта нимвежтасъяс ==
